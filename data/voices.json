@@ -1,0 +1,657 @@
+{
+  "miya": {
+    "file": "audio/voices/miya.ogg",
+    "quote": "I am the moonlight that breaks through the darkness.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Audio011-v2-select.ogg/revision/latest?cb=20231004072019"
+  },
+  "balmond": {
+    "file": "audio/voices/balmond.ogg",
+    "quote": "My blood boils until the day I die!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Audio021-select.ogg/revision/latest?cb=20210822175000"
+  },
+  "saber": {
+    "file": "audio/voices/saber.ogg",
+    "quote": "Kill all at once!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Audio031-select.ogg/revision/latest?cb=20250222050553"
+  },
+  "alice": {
+    "file": "audio/voices/alice.ogg",
+    "quote": "My kiss, will it grant immortality? Or death.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Audio041-v2-select.ogg/revision/latest?cb=20251001054552"
+  },
+  "nana": {
+    "file": "audio/voices/nana.ogg",
+    "quote": "Do you want to make friends with Nana?",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Audio051-select.ogg/revision/latest?cb=20210822182936"
+  },
+  "tigreal": {
+    "file": "audio/voices/tigreal.ogg",
+    "quote": "For honor!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Tigreal.new.select.ogg/revision/latest?cb=20210820151243"
+  },
+  "alucard": {
+    "file": "audio/voices/alucard.ogg",
+    "quote": "Demons shall bathe in their blood, the light belongs to the righteous.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Alucard.new.select.ogg/revision/latest?cb=20210820151407"
+  },
+  "karina": {
+    "file": "audio/voices/karina.ogg",
+    "quote": "My pleasure.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Karina.projnext.select.ogg/revision/latest?cb=20210824072710"
+  },
+  "akai": {
+    "file": "audio/voices/akai.ogg",
+    "quote": "Now Akai enters the scene.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Akai.new.select.ogg/revision/latest?cb=20220401070818"
+  },
+  "franco": {
+    "file": "audio/voices/franco.ogg",
+    "quote": "I love the smell of gunpowder in the morning!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Franco.select.ogg/revision/latest?cb=20210625183315"
+  },
+  "bane": {
+    "file": "audio/voices/bane.ogg",
+    "quote": "Even the strongest of currents fail to claim me!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Bane.new.select.ogg/revision/latest?cb=20210822191603"
+  },
+  "bruno": {
+    "file": "audio/voices/bruno.ogg",
+    "quote": "Time to take the field.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/Audio121-select.ogg/revision/latest?cb=20231004072113"
+  },
+  "clint": {
+    "file": "audio/voices/clint.ogg",
+    "quote": "Chivalry is dead, and I will revive it.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Clint.new.select.ogg/revision/latest?cb=20210824083043"
+  },
+  "rafaela": {
+    "file": "audio/voices/rafaela.ogg",
+    "quote": "There's nowhere for the evil to hide.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Rafaela.new.select01.ogg/revision/latest?cb=20210824084010"
+  },
+  "eudora": {
+    "file": "audio/voices/eudora.ogg",
+    "quote": "You should be ashamed for not trusting yourself.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Eudora.new.select.ogg/revision/latest?cb=20210824085242"
+  },
+  "zilong": {
+    "file": "audio/voices/zilong.ogg",
+    "quote": "The Dragonborn is back.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Zilong.select.ogg/revision/latest?cb=20210824090608"
+  },
+  "fanny": {
+    "file": "audio/voices/fanny.ogg",
+    "quote": "Sir, what's your command?",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Fanny.new.select.ogg/revision/latest?cb=20210820160656"
+  },
+  "layla": {
+    "file": "audio/voices/layla.ogg",
+    "quote": "Ready… Go!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Audio181-select.ogg/revision/latest?cb=20231004072232"
+  },
+  "minotaur": {
+    "file": "audio/voices/minotaur.ogg",
+    "quote": "I, Minotaur, will finish off what was left undone!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Minotaur.projnext.select.ogg/revision/latest?cb=20210824093058"
+  },
+  "lolita": {
+    "file": "audio/voices/lolita.ogg",
+    "quote": "I will protect you.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Audio201-select.ogg/revision/latest?cb=20231004072328"
+  },
+  "hayabusa": {
+    "file": "audio/voices/hayabusa.ogg",
+    "quote": "Hayabusa, sanjou.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c3/Hayabusa.revamp.select.ogg/revision/latest?cb=20210905034722"
+  },
+  "freya": {
+    "file": "audio/voices/freya.ogg",
+    "quote": "I am a daughter of Northern Vale. I swear to protect it till my last breath!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Audio221-select.ogg/revision/latest?cb=20251107122131"
+  },
+  "gord": {
+    "file": "audio/voices/gord.ogg",
+    "quote": "There's no time to chit chat.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Gord.select.ogg/revision/latest?cb=20210824100305"
+  },
+  "natalia": {
+    "file": "audio/voices/natalia.ogg",
+    "quote": "Where is my target?",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Natalia.select.ogg/revision/latest?cb=20210709024859"
+  },
+  "kagura": {
+    "file": "audio/voices/kagura.ogg",
+    "quote": "From the murkiest water, the purest water lily emerges.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Audio257-select.ogg/revision/latest?cb=20220924063218"
+  },
+  "chou": {
+    "file": "audio/voices/chou.ogg",
+    "quote": "[shouts] Wipe out all the injustice in the world.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Chou.select.ogg/revision/latest?cb=20210820064303"
+  },
+  "sun": {
+    "file": "audio/voices/sun.ogg",
+    "quote": "So, who's next?",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Audio271-select.ogg/revision/latest?cb=20240510094006"
+  },
+  "alpha": {
+    "file": "audio/voices/alpha.ogg",
+    "quote": "Test, Alpha is online.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Alpha.projnext.select.ogg/revision/latest?cb=20210824111654"
+  },
+  "ruby": {
+    "file": "audio/voices/ruby.ogg",
+    "quote": "The hunt begins.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Ruby.select.ogg/revision/latest?cb=20210824112201"
+  },
+  "yi-sun-shin": {
+    "file": "audio/voices/yi-sun-shin.ogg",
+    "quote": "They call me a hero, because I saved my nation from falling apart.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Yss.new.select.ogg/revision/latest?cb=20210824112708"
+  },
+  "moskov": {
+    "file": "audio/voices/moskov.ogg",
+    "quote": "I am vengeance incarnate.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Audio311-select.ogg/revision/latest?cb=20240114071706"
+  },
+  "johnson": {
+    "file": "audio/voices/johnson.ogg",
+    "quote": "Come on! Let’s roll!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Audio321-select.ogg/revision/latest?cb=20231004072426"
+  },
+  "cyclops": {
+    "file": "audio/voices/cyclops.ogg",
+    "quote": "You got a good taste!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Cyclops.select.ogg/revision/latest?cb=20210822104012"
+  },
+  "estes": {
+    "file": "audio/voices/estes.ogg",
+    "quote": "Hello, my friend.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Estes.select.ogg/revision/latest?cb=20210820170333"
+  },
+  "hilda": {
+    "file": "audio/voices/hilda.ogg",
+    "quote": "Fight! Fight for the ultimate answer.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hilda.newselect.ogg/revision/latest?cb=20210824115359"
+  },
+  "aurora": {
+    "file": "audio/voices/aurora.ogg",
+    "quote": "As fleeting as a snowflake's breath, as timeless as a glacier's heart.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Audio361-select.ogg/revision/latest?cb=20240403074652"
+  },
+  "lapu-lapu": {
+    "file": "audio/voices/lapu-lapu.ogg",
+    "quote": "This land is our homeland, and it will soon be your burial ground.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Lapu-lapu.new.select.ogg/revision/latest?cb=20210821174559"
+  },
+  "vexana": {
+    "file": "audio/voices/vexana.ogg",
+    "quote": "Hope will find a way even when all is forlorn.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Audio381-select.ogg/revision/latest?cb=20220604030704"
+  },
+  "roger": {
+    "file": "audio/voices/roger.ogg",
+    "quote": "I see lots of prey!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Roger.select.ogg/revision/latest?cb=20210820173359"
+  },
+  "karrie": {
+    "file": "audio/voices/karrie.ogg",
+    "quote": "I've been waiting for too long.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Karrie.select.ogg/revision/latest?cb=20210824121828"
+  },
+  "gatotkaca": {
+    "file": "audio/voices/gatotkaca.ogg",
+    "quote": "Muscle of iron, bones of steel.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Gatotkaca.select.ogg/revision/latest?cb=20210824141854"
+  },
+  "harley": {
+    "file": "audio/voices/harley.ogg",
+    "quote": "Welcome to the greatest magic show of all time!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Harley.new.select.ogg/revision/latest?cb=20210820180316"
+  },
+  "irithel": {
+    "file": "audio/voices/irithel.ogg",
+    "quote": "Let's go.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Irithel.select.ogg/revision/latest?cb=20210824145603"
+  },
+  "grock": {
+    "file": "audio/voices/grock.ogg",
+    "quote": "Welcome to Grock's castle, tiny friend.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Audio441-select.ogg/revision/latest?cb=20251001074406"
+  },
+  "argus": {
+    "file": "audio/voices/argus.ogg",
+    "quote": "Light will fall prey to shadow.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Argus.new.select.ogg/revision/latest?cb=20210822122047"
+  },
+  "odette": {
+    "file": "audio/voices/odette.ogg",
+    "quote": "Love outshines the golden crown.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Odette.revamp.select.ogg/revision/latest?cb=20210904160548"
+  },
+  "lancelot": {
+    "file": "audio/voices/lancelot.ogg",
+    "quote": "Thorns remain, should petals fall.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Audio471-select.ogg/revision/latest?cb=20210904142541"
+  },
+  "diggie": {
+    "file": "audio/voices/diggie.ogg",
+    "quote": "Hoot hoot! Horology is my craft, Diggie is my name.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Diggie.select.ogg/revision/latest?cb=20210824154607"
+  },
+  "hylos": {
+    "file": "audio/voices/hylos.ogg",
+    "quote": "My mission is to protect lives.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hylos.select.ogg/revision/latest?cb=20210825055120"
+  },
+  "zhask": {
+    "file": "audio/voices/zhask.ogg",
+    "quote": "Feed, destroy, and conquer!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Zhask.new.select.ogg/revision/latest?cb=20210403190833"
+  },
+  "helcurt": {
+    "file": "audio/voices/helcurt.ogg",
+    "quote": "Night falls, let the killing begin.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Audio511-select.ogg/revision/latest?cb=20240510094456"
+  },
+  "pharsa": {
+    "file": "audio/voices/pharsa.ogg",
+    "quote": "[sinister laugh] Payback time.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Pharsa.select.ogg/revision/latest?cb=20210825060853"
+  },
+  "lesley": {
+    "file": "audio/voices/lesley.ogg",
+    "quote": "Sniper ready. Give me a target.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Audio531-select.ogg/revision/latest?cb=20220826061002"
+  },
+  "jawhead": {
+    "file": "audio/voices/jawhead.ogg",
+    "quote": "Well, it's my job to protect honey bear.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Jawhead.select.ogg/revision/latest?cb=20210902103150"
+  },
+  "angela": {
+    "file": "audio/voices/angela.ogg",
+    "quote": "Love and hope are the two greatest inventions.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Angela.select.ogg/revision/latest?cb=20210820184254"
+  },
+  "gusion": {
+    "file": "audio/voices/gusion.ogg",
+    "quote": "I'm bound by nothing — be it family or destiny.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Gusion.new.select.ogg/revision/latest?cb=20211028013223"
+  },
+  "valir": {
+    "file": "audio/voices/valir.ogg",
+    "quote": "[laughs] Feel the heat of the inferno.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Valir.select.ogg/revision/latest?cb=20220316021736"
+  },
+  "martis": {
+    "file": "audio/voices/martis.ogg",
+    "quote": "[laughs] Three thousand worlds, and not a single worthy foe!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Martis.select.ogg/revision/latest?cb=20210831062537"
+  },
+  "uranus": {
+    "file": "audio/voices/uranus.ogg",
+    "quote": "Hmm... Uranus has awakened.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Uranus.select.ogg/revision/latest?cb=20210822164758"
+  },
+  "hanabi": {
+    "file": "audio/voices/hanabi.ogg",
+    "quote": "Hanabi, sanjou!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Audio601-select.ogg/revision/latest?cb=20221216103932"
+  },
+  "change": {
+    "file": "audio/voices/change.ogg",
+    "quote": "Let's play together! [giggles]",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Chang%27e.Rselect.ogg/revision/latest?cb=20220305071642"
+  },
+  "kaja": {
+    "file": "audio/voices/kaja.ogg",
+    "quote": "Mmhp... I am the power of light incarnate.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Kaja.select.ogg/revision/latest?cb=20211231191236"
+  },
+  "selena": {
+    "file": "audio/voices/selena.ogg",
+    "quote": "Shhh... When you gaze into the abyss, the abyss gazes back.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Selena.select.ogg/revision/latest?cb=20220320161436"
+  },
+  "aldous": {
+    "file": "audio/voices/aldous.ogg",
+    "quote": "My fists are unflinching!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Aldous.select.ogg/revision/latest?cb=20210825095342"
+  },
+  "claude": {
+    "file": "audio/voices/claude.ogg",
+    "quote": "Come on, Dexter! It's our showtime!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Claude.new.select.ogg/revision/latest?cb=20210821040245"
+  },
+  "vale": {
+    "file": "audio/voices/vale.ogg",
+    "quote": "My magic flows as freely as the winds.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Vale.select.ogg/revision/latest?cb=20210826030829"
+  },
+  "leomord": {
+    "file": "audio/voices/leomord.ogg",
+    "quote": "Valor and royalty in a dead body.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Audio671-select.ogg/revision/latest?cb=20220618065534"
+  },
+  "lunox": {
+    "file": "audio/voices/lunox.ogg",
+    "quote": "Come and join me, in my dream world.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Lunox.select.ogg/revision/latest?cb=20211231182741"
+  },
+  "hanzo": {
+    "file": "audio/voices/hanzo.ogg",
+    "quote": "All who dare stand in my way will be devoured.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Audio691-v2-select.ogg/revision/latest?cb=20250119100957"
+  },
+  "belerick": {
+    "file": "audio/voices/belerick.ogg",
+    "quote": "Mighty oaks from little acorns grow.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Belerick.new.select.ogg/revision/latest?cb=20200516111946"
+  },
+  "kimmy": {
+    "file": "audio/voices/kimmy.ogg",
+    "quote": "Already got 'em lined up in my sights!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Audio711-select.ogg/revision/latest?cb=20250403090838"
+  },
+  "thamuz": {
+    "file": "audio/voices/thamuz.ogg",
+    "quote": "[evil laughs] Burn them all!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Audio721-select.ogg/revision/latest?cb=20251001083322"
+  },
+  "harith": {
+    "file": "audio/voices/harith.ogg",
+    "quote": "Magic is my life.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Harith.select.ogg/revision/latest?cb=20210821042733"
+  },
+  "minsitthar": {
+    "file": "audio/voices/minsitthar.ogg",
+    "quote": "May the blood of my enemies flow from my spear!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Audio741-select01.ogg/revision/latest?cb=20230315082558"
+  },
+  "kadita": {
+    "file": "audio/voices/kadita.ogg",
+    "quote": "[laughs] The southern seas are my domain.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Kadita.select.ogg/revision/latest?cb=20210831161953"
+  },
+  "faramis": {
+    "file": "audio/voices/faramis.ogg",
+    "quote": "To live is to trick the reaper.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Audio761-select.ogg/revision/latest?cb=20220612055010"
+  },
+  "badang": {
+    "file": "audio/voices/badang.ogg",
+    "quote": "No one can escape my iron fist.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Badang.select.ogg/revision/latest?cb=20211111035724"
+  },
+  "khufra": {
+    "file": "audio/voices/khufra.ogg",
+    "quote": "All shall succumb to my power.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Khufra.select.ogg/revision/latest?cb=20210626090737"
+  },
+  "granger": {
+    "file": "audio/voices/granger.ogg",
+    "quote": "Experience the euphony of suffering.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Audio791-select.ogg/revision/latest?cb=20241111043952"
+  },
+  "guinevere": {
+    "file": "audio/voices/guinevere.ogg",
+    "quote": "[chuckles] I'm born with talent.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Guinevere.select.ogg/revision/latest?cb=20210824074423"
+  },
+  "esmeralda": {
+    "file": "audio/voices/esmeralda.ogg",
+    "quote": "The night sky tells all.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Esmeralda.select.ogg/revision/latest?cb=20211206070349"
+  },
+  "terizla": {
+    "file": "audio/voices/terizla.ogg",
+    "quote": "[sighs] 10 years of imprisonment.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Terizla.select.ogg/revision/latest?cb=20190425094632"
+  },
+  "xborg": {
+    "file": "audio/voices/xborg.ogg",
+    "quote": "Light me up and watch the world burn!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Audio831-select.ogg/revision/latest?cb=20231004072626"
+  },
+  "ling": {
+    "file": "audio/voices/ling.ogg",
+    "quote": "Still waters run deep.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Audio841-select.ogg/revision/latest?cb=20240721090211"
+  },
+  "dyrroth": {
+    "file": "audio/voices/dyrroth.ogg",
+    "quote": "[scoffs] I do what I want to do.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Audio851-select.ogg/revision/latest?cb=20251001092144"
+  },
+  "lylia": {
+    "file": "audio/voices/lylia.ogg",
+    "quote": "It's time to go to the Eruditio, for some fun!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/de/Lylia.select.ogg/revision/latest?cb=20191104084245"
+  },
+  "baxia": {
+    "file": "audio/voices/baxia.ogg",
+    "quote": "Rocks need no protection from the rain.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Baxia.select.ogg/revision/latest?cb=20220101151505"
+  },
+  "masha": {
+    "file": "audio/voices/masha.ogg",
+    "quote": "The fire of battle never extinguishes!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Masha.select.ogg/revision/latest?cb=20210821074801"
+  },
+  "wanwan": {
+    "file": "audio/voices/wanwan.ogg",
+    "quote": "[giggles] To me, fun is all that matters!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Wanwan.select.ogg/revision/latest?cb=20191104084319"
+  },
+  "silvanna": {
+    "file": "audio/voices/silvanna.ogg",
+    "quote": "Only light can drive out the darkness.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Silvanna.select01.ogg/revision/latest?cb=20200520051457"
+  },
+  "cecilion": {
+    "file": "audio/voices/cecilion.ogg",
+    "quote": "Only love and night are everlasting.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Cecilion.select.ogg/revision/latest?cb=20210821080250"
+  },
+  "carmilla": {
+    "file": "audio/voices/carmilla.ogg",
+    "quote": "True love is like blood.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Carmilla.select.ogg/revision/latest?cb=20210821080350"
+  },
+  "atlas": {
+    "file": "audio/voices/atlas.ogg",
+    "quote": "The ocean is not just our home, it is who we are.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Atlas.select.ogg/revision/latest?cb=20210619014946"
+  },
+  "popol-and-kupa": {
+    "file": "audio/voices/popol-and-kupa.ogg",
+    "quote": "Popol and Kupa are the best partners in the world!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Popolandkupa.select.ogg/revision/latest?cb=20210823093106"
+  },
+  "yu-zhong": {
+    "file": "audio/voices/yu-zhong.ogg",
+    "quote": "Let them play the hero, I will be the truth this world desperately needs.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Audio951-select.ogg/revision/latest?cb=20240721090456"
+  },
+  "luo-yi": {
+    "file": "audio/voices/luo-yi.ogg",
+    "quote": "Gaze the stars and seek your path.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Luoyi.select01.ogg/revision/latest?cb=20200520053521"
+  },
+  "benedetta": {
+    "file": "audio/voices/benedetta.ogg",
+    "quote": "When the body suffers, the spirit blooms.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Benedetta.select.ogg/revision/latest?cb=20210823070808"
+  },
+  "khaleed": {
+    "file": "audio/voices/khaleed.ogg",
+    "quote": "Sand rises when I give the word.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Khaleed.select.ogg/revision/latest?cb=20200810062616"
+  },
+  "barats": {
+    "file": "audio/voices/barats.ogg",
+    "quote": "I might not be a lighted man, but I do know my traits!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ab/Barats.select.ogg/revision/latest?cb=20210823064914"
+  },
+  "brody": {
+    "file": "audio/voices/brody.ogg",
+    "quote": "Pain, is the proof that I'm still alive.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Brody.select.ogg/revision/latest?cb=20210822132929"
+  },
+  "yve": {
+    "file": "audio/voices/yve.ogg",
+    "quote": "Among the planes exist the equilibrium, which I was made for.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Yve.select.ogg/revision/latest?cb=20210823064028"
+  },
+  "mathilda": {
+    "file": "audio/voices/mathilda.ogg",
+    "quote": "Always on the way.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Mathilda.select.ogg/revision/latest?cb=20210823054626"
+  },
+  "paquito": {
+    "file": "audio/voices/paquito.ogg",
+    "quote": "A punch for a punch.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Paquito.select.ogg/revision/latest?cb=20210619080401"
+  },
+  "gloo": {
+    "file": "audio/voices/gloo.ogg",
+    "quote": "Many hands make light work!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Audio1041-move03.ogg/revision/latest?cb=20250505154117"
+  },
+  "beatrix": {
+    "file": "audio/voices/beatrix.ogg",
+    "quote": "Time and tide wait for no man, nor girl.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Beatrix.select.ogg/revision/latest?cb=20210823051607"
+  },
+  "phoveus": {
+    "file": "audio/voices/phoveus.ogg",
+    "quote": "I am not the only one bound by these chains.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Audio1061-select.ogg/revision/latest?cb=20240924070541"
+  },
+  "natan": {
+    "file": "audio/voices/natan.ogg",
+    "quote": "It is in despair that I see the fondest hopes.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Natan.select.ogg/revision/latest?cb=20210710101132"
+  },
+  "aulus": {
+    "file": "audio/voices/aulus.ogg",
+    "quote": "Old Aulus still has a few tricks to show!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Aulus.select.ogg/revision/latest?cb=20210811134639"
+  },
+  "aamon": {
+    "file": "audio/voices/aamon.ogg",
+    "quote": "It is better to be feared than loved, if you cannot both.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Aamon.select.ogg/revision/latest?cb=20211015122453"
+  },
+  "valentina": {
+    "file": "audio/voices/valentina.ogg",
+    "quote": "I didn't cure the pain, I harness it.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Valentina.select.ogg/revision/latest?cb=20211126025518"
+  },
+  "edith": {
+    "file": "audio/voices/edith.ogg",
+    "quote": "I am the priestess of Primal Lightning, the hunter of all the Evil Gods.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Edith.select.ogg/revision/latest?cb=20211226064108"
+  },
+  "floryn": {
+    "file": "audio/voices/floryn.ogg",
+    "quote": "Let's make the whole world green and lively.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Floryn.select.ogg/revision/latest?cb=20210918025556"
+  },
+  "yin": {
+    "file": "audio/voices/yin.ogg",
+    "quote": "I'm Yin and I won't lose myself, no matter what.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Audio1131-select.ogg/revision/latest?cb=20240721091323"
+  },
+  "melissa": {
+    "file": "audio/voices/melissa.ogg",
+    "quote": "Need some stitches? I can help. [giggles]",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Melissa.select.ogg/revision/latest?cb=20220212034414"
+  },
+  "xavier": {
+    "file": "audio/voices/xavier.ogg",
+    "quote": "This time, the choice is mine.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Xavier.select.ogg/revision/latest?cb=20220131032359"
+  },
+  "julian": {
+    "file": "audio/voices/julian.ogg",
+    "quote": "I am more than a weapon.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Julian.select.ogg/revision/latest?cb=20220517155342"
+  },
+  "fredrinn": {
+    "file": "audio/voices/fredrinn.ogg",
+    "quote": "See value in me? Heh...you should.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Audio1171-select.ogg/revision/latest?cb=20220803150310"
+  },
+  "joy": {
+    "file": "audio/voices/joy.ogg",
+    "quote": "Time to drop the beat of the flash!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Audio1181-select.ogg/revision/latest?cb=20221021135022"
+  },
+  "novaria": {
+    "file": "audio/voices/novaria.ogg",
+    "quote": "Stargazers only see the past. What I want however, is to reshape the future.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Audio1191-select.ogg/revision/latest?cb=20230310160436"
+  },
+  "arlott": {
+    "file": "audio/voices/arlott.ogg",
+    "quote": "I will choose my own path.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Audio1201-select.ogg/revision/latest?cb=20240114161711"
+  },
+  "ixia": {
+    "file": "audio/voices/ixia.ogg",
+    "quote": "It’s my way or the high way.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Audio1211-select.ogg/revision/latest?cb=20231004072802"
+  },
+  "nolan": {
+    "file": "audio/voices/nolan.ogg",
+    "quote": "Gaze upon the edge of the void.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Audio1221-select.ogg/revision/latest?cb=20231004072851"
+  },
+  "cici": {
+    "file": "audio/voices/cici.ogg",
+    "quote": "Let's hear from the crowd! Make some noise for yours truly!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/79/Audio1231-select.ogg/revision/latest?cb=20240114082558"
+  },
+  "chip": {
+    "file": "audio/voices/chip.ogg",
+    "quote": "Who said there are no shortcuts in life? I literally invented one.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Audio1241-select.ogg/revision/latest?cb=20240403084205"
+  },
+  "zhuxin": {
+    "file": "audio/voices/zhuxin.ogg",
+    "quote": "Butterflies, born by thy wish, guided by lantern’s light.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Audio1251-select.ogg/revision/latest?cb=20240721092014"
+  },
+  "suyou": {
+    "file": "audio/voices/suyou.ogg",
+    "quote": "The Immortal One chose me to vanquish the shadows that plague this world.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Audio1261-select.ogg/revision/latest?cb=20240903150046"
+  },
+  "lukas": {
+    "file": "audio/voices/lukas.ogg",
+    "quote": "Let's fight to our hearts content!",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Audio1271-select.ogg/revision/latest?cb=20241222071329"
+  },
+  "kalea": {
+    "file": "audio/voices/kalea.ogg",
+    "quote": "My tail's been itching for a real fight.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Audio1281-select.ogg/revision/latest?cb=20250111145332"
+  },
+  "zetian": {
+    "file": "audio/voices/zetian.ogg",
+    "quote": "Crowned by Heaven's Mandate, my legacy shall endure.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Audio1291-select.ogg/revision/latest?cb=20250512075904"
+  },
+  "obsidia": {
+    "file": "audio/voices/obsidia.ogg",
+    "quote": "I am the sovereign of the abyss. The slayer of gods.",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Audio1301-select.ogg/revision/latest?cb=20250702051005"
+  },
+  "marcel": {
+    "file": "audio/voices/marcel.ogg",
+    "quote": "Different perspectives expose the same truth. \"Three, two, one.\"",
+    "remoteUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero1321.selection.ogg/revision/latest?cb=20260625165713"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "emblems": [
+    {
+      "id": "tank-emblem",
+      "name": "Tank Emblem",
+      "role": "Tank / Roam / Frontline",
+      "color": "#f59e0b",
+      "attributes": [
+        "+500 Max HP",
+        "+10 Hybrid Defense",
+        "+4 HP Regen"
+      ],
+      "description": "Maximizes early-game frontline durability, base HP, and hybrid armor for Roamers and utility EXP Laners.",
+      "tier1Talents": [
+        {
+          "name": "Vitality",
+          "effect": "Grants +225 extra Max HP."
+        },
+        {
+          "name": "Firmness",
+          "effect": "Grants +6 extra Physical & Magic Defense."
+        },
+        {
+          "name": "Agility",
+          "effect": "Grants +4% extra Movement Speed."
+        }
+      ],
+      "tier2Talents": [
+        {
+          "name": "Tenacity",
+          "effect": "When HP is below 50%, Physical & Magic Defense increase by 15."
+        },
+        {
+          "name": "Pull Yourself Together",
+          "effect": "Reduces Battle Spell and Active Equipment cooldowns by 15%."
+        },
+        {
+          "name": "Wilderness Blessing",
+          "effect": "Movement Speed in the Jungle and River increases by 7%."
+        }
+      ],
+      "coreTalents": [
+        {
+          "name": "Concussive Blast",
+          "effect": "After the next Basic Attack, deals 100 (+7% Total HP) Magic Damage to nearby enemies (15s CD)."
+        },
+        {
+          "name": "Focusing Mark",
+          "effect": "Damaging an enemy hero increases allied heroes' damage against them by 6% for 3s."
+        }
+      ],
+      "recommendedHeroes": [
+        "tigreal",
+        "khufra",
+        "chou"
+      ],
+      "icon": "https://mlbb.tools/emblems/custom-tank.webp"
+    },
+    {
+      "id": "assassin-emblem",
+      "name": "Assassin Emblem",
+      "role": "Assassin / Burst Carry",
+      "color": "#ef4444",
+      "attributes": [
+        "+14 Adaptive Penetration",
+        "+10 Adaptive Attack",
+        "+3% Movement Speed"
+      ],
+      "description": "Provides the highest Adaptive Penetration and rotation speed in the game—favored by both Physical & Magic Assassins as well as burst Marksmen.",
+      "tier1Talents": [
+        {
+          "name": "Rupture",
+          "effect": "Grants +5 Adaptive Penetration."
+        },
+        {
+          "name": "Thrill",
+          "effect": "Grants +16 Adaptive Attack."
+        }
+      ],
+      "tier2Talents": [
+        {
+          "name": "Master Assassin",
+          "effect": "If there is only 1 enemy hero nearby, damage dealt to them increases by 7%."
+        },
+        {
+          "name": "Seasoned Hunter",
+          "effect": "Damage against Lord and Turtle increases by 15% (halved against normal Creeps)."
+        },
+        {
+          "name": "Weapon Master",
+          "effect": "Physical Attack and Magic Power gained from Equipment, Emblem, and Skills increase by 5%."
+        }
+      ],
+      "coreTalents": [
+        {
+          "name": "Lethal Ignition",
+          "effect": "Dealing damage greater than 7% of an enemy hero's Max HP 3 times within 5s scorches the target for 162–750 Adaptive Damage."
+        },
+        {
+          "name": "Killing Spree",
+          "effect": "Eliminating an enemy hero instantly restores 15% of Lost HP and grants 20% Movement Speed for 3s."
+        }
+      ],
+      "recommendedHeroes": [
+        "fanny",
+        "gusion",
+        "aamon",
+        "beatrix"
+      ],
+      "icon": "https://mlbb.tools/emblems/custom-assassin.webp"
+    },
+    {
+      "id": "mage-emblem",
+      "name": "Mage Emblem",
+      "role": "Mage / Mid Lane",
+      "color": "#a855f7",
+      "attributes": [
+        "+30 Magic Power",
+        "+5% Cooldown Reduction",
+        "+8 Magic Penetration"
+      ],
+      "description": "Tailored for spellcasters who rely on Magic Power scaling, Cooldown Reduction, and flat Magic Penetration.",
+      "tier1Talents": [
+        {
+          "name": "Inspire",
+          "effect": "Grants +5% extra Cooldown Reduction."
+        },
+        {
+          "name": "Rupture",
+          "effect": "Grants +5 Adaptive Penetration."
+        }
+      ],
+      "tier2Talents": [
+        {
+          "name": "Bargain Hunter",
+          "effect": "Equipment can be purchased at 95% of its original gold price (5% discount on all items!)."
+        },
+        {
+          "name": "Festival of Blood",
+          "effect": "Grants 6% Spell Vamp; each hero kill/assist adds 0.5% extra Spell Vamp (up to 8 stacks)."
+        }
+      ],
+      "coreTalents": [
+        {
+          "name": "Impure Rage",
+          "effect": "Dealing damage with skills deals 4% of target's Max HP as extra Adaptive Damage and restores 2% Max Mana (5s CD)."
+        },
+        {
+          "name": "Lethal Ignition",
+          "effect": "Multi-hit burst scorches the enemy hero for 162–750 Adaptive Damage."
+        }
+      ],
+      "recommendedHeroes": [
+        "kagura",
+        "odette"
+      ],
+      "icon": "https://mlbb.tools/emblems/custom-mage.webp"
+    },
+    {
+      "id": "fighter-emblem",
+      "name": "Fighter Emblem",
+      "role": "Fighter / EXP Brawler",
+      "color": "#dc2626",
+      "attributes": [
+        "+10% Spell Vamp",
+        "+22 Adaptive Attack",
+        "+6 Hybrid Defense"
+      ],
+      "description": "Built for front-to-back EXP Lane bruisers who thrive on Spell Vamp sustain and prolonged melee combat.",
+      "tier1Talents": [
+        {
+          "name": "Thrill",
+          "effect": "Grants +16 Adaptive Attack."
+        },
+        {
+          "name": "Firmness",
+          "effect": "Grants +6 Physical & Magic Defense."
+        }
+      ],
+      "tier2Talents": [
+        {
+          "name": "Festival of Blood",
+          "effect": "Grants up to 10% extra Spell Vamp upon stacking hero takedowns."
+        },
+        {
+          "name": "Tenacity",
+          "effect": "Grants +15 Hybrid Defense when below 50% HP."
+        }
+      ],
+      "coreTalents": [
+        {
+          "name": "Brave Smite",
+          "effect": "Dealing skill damage to an enemy hero restores 5% of Max HP (6s CD)."
+        },
+        {
+          "name": "War Cry",
+          "effect": "After 3 consecutive Basic Attacks or skills hit an enemy hero, all damage dealt increases by 8% for 6s."
+        }
+      ],
+      "recommendedHeroes": [
+        "yu-zhong",
+        "chou"
+      ],
+      "icon": "https://mlbb.tools/emblems/custom-fighter.webp"
+    },
+    {
+      "id": "marksman-emblem",
+      "name": "Marksman Emblem",
+      "role": "Marksman / Gold Lane DPS",
+      "color": "#eab308",
+      "attributes": [
+        "+15% Attack Speed",
+        "+5% Adaptive Attack",
+        "+5% Lifesteal"
+      ],
+      "description": "Accelerates Attack Speed, Lifesteal, and scaling DPS for Gold Lane carries.",
+      "tier1Talents": [
+        {
+          "name": "Swift",
+          "effect": "Grants +10% extra Attack Speed."
+        },
+        {
+          "name": "Fatal",
+          "effect": "Grants +5% Critical Chance and +10% Critical Damage."
+        }
+      ],
+      "tier2Talents": [
+        {
+          "name": "Weapon Master",
+          "effect": "Increases bonus Physical Attack & Magic Power from items by 5%."
+        },
+        {
+          "name": "Tenacity",
+          "effect": "Grants +15 Hybrid Defense below 50% HP to survive assassin dives."
+        }
+      ],
+      "coreTalents": [
+        {
+          "name": "Quantum Charge",
+          "effect": "Dealing damage with Basic Attacks grants +30% Movement Speed for 1.5s and restores 75–180 HP (8s CD)."
+        },
+        {
+          "name": "Weakness Finder",
+          "effect": "Basic Attacks slow enemy Movement Speed by 50% and Attack Speed by 30% briefly."
+        }
+      ],
+      "recommendedHeroes": [
+        "claude",
+        "karrie",
+        "layla"
+      ],
+      "icon": "https://mlbb.tools/emblems/custom-marksman.webp"
+    },
+    {
+      "id": "support-emblem",
+      "name": "Support Emblem",
+      "role": "Support / Enchanter Roam",
+      "color": "#22c55e",
+      "attributes": [
+        "+12% Healing Effect",
+        "+10% Cooldown Reduction",
+        "+6% Movement Speed"
+      ],
+      "description": "Supercharges shields, healing output, Cooldown Reduction, and map rotation speed for utility Roamers.",
+      "tier1Talents": [
+        {
+          "name": "Agility",
+          "effect": "Grants +4% extra Movement Speed."
+        },
+        {
+          "name": "Inspire",
+          "effect": "Grants +5% extra Cooldown Reduction."
+        }
+      ],
+      "tier2Talents": [
+        {
+          "name": "Pull Yourself Together",
+          "effect": "Reduces Battle Spell & Active Item cooldowns by 15%."
+        },
+        {
+          "name": "Bargain Hunter",
+          "effect": "5% discount on all Equipment."
+        }
+      ],
+      "coreTalents": [
+        {
+          "name": "Focusing Mark",
+          "effect": "Increases allied damage against targets you hit by 6% for 3s."
+        },
+        {
+          "name": "Temporal Reign",
+          "effect": "Casting Ultimate increases non-Ultimate skill cooldown speed by 1.5x for 4s."
+        }
+      ],
+      "recommendedHeroes": [
+        "angela",
+        "diggie"
+      ],
+      "icon": "https://mlbb.tools/emblems/custom-support.webp"
+    }
+  ],
+  "battleSpells": [
+    {
+      "id": "flicker",
+      "name": "Flicker",
+      "cooldown": "120s",
+      "color": "#f59e0b",
+      "description": "Teleports a short distance in a designated direction and grants 5 (+1 per level) Physical & Magic Defense for 1s.",
+      "bestFor": [
+        "tigreal",
+        "chou",
+        "kagura",
+        "odette",
+        "beatrix",
+        "layla",
+        "khufra",
+        "angela",
+        "diggie"
+      ]
+    },
+    {
+      "id": "retribution",
+      "name": "Retribution (Ice / Flame / Bloody)",
+      "cooldown": "35s",
+      "color": "#06b6d4",
+      "description": "Deals 520–1440 True Damage to Jungle Creeps or Minions. With Jungling Footwear, upgrades after 5 creeps to target enemy heroes.",
+      "bestFor": [
+        "fanny",
+        "gusion",
+        "aamon"
+      ]
+    },
+    {
+      "id": "petrify",
+      "name": "Petrify",
+      "cooldown": "75s",
+      "color": "#a855f7",
+      "description": "Deals 100–250 Magic Damage to surrounding enemies, petrifying (stunning) them for 0.8s and slowing them by 50% afterward.",
+      "bestFor": [
+        "yu-zhong",
+        "khufra"
+      ]
+    },
+    {
+      "id": "purify",
+      "name": "Purify",
+      "cooldown": "90s",
+      "color": "#38bdf8",
+      "description": "Immediately removes all debuffs (excluding Suppression) and grants Crowd Control Immunity and +15% Movement Speed for 1.2s.",
+      "bestFor": [
+        "claude",
+        "karrie",
+        "diggie"
+      ]
+    },
+    {
+      "id": "vengeance",
+      "name": "Vengeance",
+      "cooldown": "75s",
+      "color": "#ef4444",
+      "description": "For 3s, reduces incoming damage by 35% and reflects 35% of damage taken back to the attacker as Magic Damage.",
+      "bestFor": [
+        "claude",
+        "karrie",
+        "tigreal"
+      ]
+    }
+  ]
+}

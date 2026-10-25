@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mobile Legends: Bang Bang — Created by 0xjaylen</title>
+  <meta name="description" content="Created by 0xjaylen" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=JetBrains+Mono:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+Myanmar:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=Padauk:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body data-theme="cyan">
+  <!-- INTERACTIVE WATER-DROP RIPPLE & MAGNETIC FIELD CANVAS -->
+  <canvas id="nexus-motion-canvas" class="nexus-motion-canvas" aria-hidden="true"></canvas>
+
+  <!-- TOP NAVIGATION (Liquid Clear Glass — Jay Reference Layout) -->
+  <header id="top-navbar" class="top-navbar">
+    <div class="nav-left">
+      <nav class="desktop-nav" aria-label="Primary Navigation">
+        <a href="#home" class="nav-link active" data-nav="home" data-i18n="nav_home">Home</a>
+        <a href="#heroes" class="nav-link" data-nav="heroes" data-i18n="nav_heroes">Heroes</a>
+        <a href="#items" class="nav-link" data-nav="items" data-i18n="nav_items">Items</a>
+        <a href="#lore" class="nav-link" data-nav="lore" data-i18n="nav_lore">Lore</a>
+        <a href="#emblems" class="nav-link" data-nav="emblems" data-i18n="nav_emblems">Emblems</a>
+        <a href="#draft" class="nav-link" data-nav="draft" style="display:inline-flex;align-items:center;gap:4px;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3"><path d="m18 15-6-6-6 6"/><path d="m6 9 6-6 6 6"/><path d="M4 21h16"/></svg>
+          <span data-i18n="nav_draft">Draft Matrix</span>
+        </a>
+        <a href="#sandbox" class="nav-link" data-nav="sandbox" style="display:inline-flex;align-items:center;gap:4px;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="m9 9 6 6m0-6-6 6"/></svg>
+          <span data-i18n="nav_sandbox">Build Lab</span>
+        </a>
+        <a href="#map" class="nav-link" data-nav="map" style="display:inline-flex;align-items:center;gap:4px;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3"><polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21"/><line x1="9" x2="9" y1="3" y2="18"/><line x1="15" x2="15" y1="6" y2="21"/></svg>
+          <span data-i18n="nav_map">Dawn Map</span>
+        </a>
+        <a href="#account" class="nav-link" data-nav="account" style="display:inline-flex;align-items:center;gap:5px;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2.3"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+          <span data-i18n="nav_account">Account</span>
+        </a>
+        <a href="#mylist" class="nav-link" data-nav="mylist" style="display:inline-flex;align-items:center;gap:4px;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2.3"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+          <span data-i18n="nav_mylist">My List</span>
+          <span id="nav-fav-count" class="nav-count-badge">0</span>
+        </a>
+      </nav>
+    </div>
+
+    <div class="nav-right">
+      <!-- Quick Search -->
+      <div class="quick-search-wrapper" id="quick-search-wrapper">
+        <button id="search-toggle-btn" class="icon-btn" aria-label="Open Quick Search" title="Search (Press /)">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        </button>
+        <input type="search" id="quick-search-input" class="quick-search-input" placeholder="Heroes, skills, items, lore..." autocomplete="off" />
+      </div>
+
+      <!-- Direct Burmese Unicode 1-Click Toggle Pill (EN ⇄ မြန်မာ) — From Jay's Navbar Reference -->
+      <button id="burmese-quick-toggle" type="button" class="liquid-pill-btn" title="1-Click Toggle English ⇄ မြန်မာဘာသာ (Burmese Unicode)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        <span id="burmese-toggle-label">EN / မြန်မာ</span>
+      </button>
+
+      <!-- Gaming Theme Music (BGM) Player Capsule -->
+      <div id="bgm-player-wrap" class="bgm-player-capsule hide-xs">
+        <button id="bgm-toggle-btn" type="button" class="liquid-pill-btn" title="Toggle Gaming Theme Music (Exploring BGM)">
+          <svg id="bgm-icon-play" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+          <svg id="bgm-icon-pause" width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="display:none;"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+          <span id="bgm-label">🎵 BGM: Battle</span>
+          <div id="bgm-eq-visualizer" class="bgm-eq-bars" style="display:none;">
+            <span></span><span></span><span></span><span></span>
+          </div>
+        </button>
+        <button id="bgm-next-btn" type="button" class="liquid-pill-btn bgm-switch-pill" title="Next Track (Battle / Sanctuary)">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" y1="5" x2="19" y2="19"/></svg>
+        </button>
+      </div>
+
+      <!-- Liquid Glass Audio Atmosphere & SFX Toggle -->
+      <button id="audio-toggle-btn" type="button" class="liquid-pill-btn" title="Toggle Land of Dawn Soundscape &amp; Tactile Audio">
+        <svg id="audio-icon-on" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" style="display:none;"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+        <svg id="audio-icon-off" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>
+        <span id="audio-toggle-label">SFX: OFF</span>
+      </button>
+
+      <!-- Quiz Button — From Jay's Navbar Reference -->
+      <button id="quiz-open-btn" type="button" class="liquid-pill-btn hide-xs" style="border-color:var(--border-strong);color:var(--accent-primary);" title="Play MLBB Knowledge Quiz">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        <span data-i18n="quiz_btn">Quiz</span>
+      </button>
+
+      <!-- 6-Language Dropdown Selector (EN / MY Burmese / RU / DE / ZH / JA) -->
+      <div class="lang-switcher-wrap" id="lang-switcher-wrap">
+        <button id="lang-toggle-btn" class="lang-toggle-btn" aria-haspopup="true" aria-expanded="false" title="Select Language (EN / မြန်မာ / RU / DE / 中文 / 日本語)">
+          <span id="current-lang-flag">🌐</span>
+          <span id="current-lang-code">EN</span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div id="lang-dropdown-menu" class="lang-dropdown-menu" role="menu">
+          <!-- Populated dynamically from window.MLBB_I18N.languages -->
+        </div>
+      </div>
+
+      <button id="mobile-menu-btn" class="icon-btn mobile-only" aria-label="Toggle Menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- MOBILE DRAWER MENU (Liquid Glass) -->
+  <div id="mobile-drawer" class="mobile-drawer" aria-hidden="true">
+    <div class="mobile-drawer-header">
+      <span></span>
+      <button id="mobile-drawer-close" class="icon-btn" aria-label="Close Menu">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
+      </button>
+    </div>
+    <div class="mobile-drawer-links">
+      <a href="#home" class="drawer-link active" data-nav="home" data-i18n="nav_home">Home</a>
+      <a href="#heroes" class="drawer-link" data-nav="heroes" data-i18n="nav_heroes">Heroes</a>
+      <a href="#items" class="drawer-link" data-nav="items" data-i18n="nav_items">Items</a>
+      <a href="#lore" class="drawer-link" data-nav="lore" data-i18n="nav_lore">Lore</a>
+      <a href="#emblems" class="drawer-link" data-nav="emblems" data-i18n="nav_emblems">Emblems</a>
+      <a href="#draft" class="drawer-link" data-nav="draft" data-i18n="nav_draft">Draft Matrix</a>
+      <a href="#sandbox" class="drawer-link" data-nav="sandbox" data-i18n="nav_sandbox">Build Lab</a>
+      <a href="#map" class="drawer-link" data-nav="map" data-i18n="nav_map">Dawn Map</a>
+      <a href="#account" class="drawer-link" data-nav="account" data-i18n="nav_account">Account</a>
+      <a href="#mylist" class="drawer-link" data-nav="mylist" data-i18n="nav_mylist">My List</a>
+      <a href="#search" class="drawer-link" data-nav="search" data-i18n="nav_search">Search</a>
+
+      <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:0.8rem;padding-top:0.8rem;border-top:1px solid var(--border-subtle);">
+        <button type="button" class="liquid-pill-btn" id="drawer-quiz-btn" data-i18n="quiz_btn">Quiz</button>
+        <button type="button" class="liquid-pill-btn" id="drawer-bgm-btn">🎵 BGM: Play</button>
+        <button type="button" class="liquid-pill-btn" id="drawer-audio-btn">SFX: OFF</button>
+      </div>
+    </div>
+    <div class="mobile-drawer-footer">
+      <p>Created by 0xjaylen</p>
+    </div>
+  </div>
+
+  <!-- MAIN VIEW CONTAINER -->
+  <main id="app-main" class="app-main" aria-live="polite">
+    <section class="hero-banner-skeleton">
+      <div class="skeleton-pulse banner-shimmer"></div>
+    </section>
+    <section class="content-container">
+      <div class="skeleton-row">
+        <div class="skeleton-title skeleton-pulse"></div>
+        <div class="skeleton-cards">
+          <div class="skeleton-card skeleton-pulse"></div>
+          <div class="skeleton-card skeleton-pulse"></div>
+          <div class="skeleton-card skeleton-pulse"></div>
+          <div class="skeleton-card skeleton-pulse"></div>
+          <div class="skeleton-card skeleton-pulse"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- DETAIL MODAL OVERLAY (Hero / Item / Lore / Quiz / Connections) -->
+  <div id="detail-modal-backdrop" class="detail-modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div id="detail-modal-container" class="detail-modal-container">
+      <!-- Populated dynamically via JS -->
+    </div>
+  </div>
+
+  <!-- MOBILE BOTTOM TAB BAR -->
+  <nav class="mobile-bottom-nav" aria-label="Mobile Navigation">
+    <a href="#home" class="bottom-tab active" data-nav="home">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+      <span data-i18n="nav_home">Home</span>
+    </a>
+    <a href="#heroes" class="bottom-tab" data-nav="heroes">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      <span data-i18n="nav_heroes">Heroes</span>
+    </a>
+    <a href="#items" class="bottom-tab" data-nav="items">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+      <span data-i18n="nav_items">Items</span>
+    </a>
+    <a href="#lore" class="bottom-tab" data-nav="lore">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
+      <span data-i18n="nav_lore">Lore</span>
+    </a>
+    <a href="#draft" class="bottom-tab" data-nav="draft">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m18 15-6-6-6 6"/><path d="m6 9 6-6 6 6"/><path d="M4 21h16"/></svg>
+      <span data-i18n="nav_draft">Draft</span>
+    </a>
+    <a href="#sandbox" class="bottom-tab" data-nav="sandbox">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="m9 9 6 6m0-6-6 6"/></svg>
+      <span data-i18n="nav_sandbox">Lab</span>
+    </a>
+    <a href="#account" class="bottom-tab" data-nav="account">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+      <span data-i18n="nav_account">Account</span>
+    </a>
+    <a href="#mylist" class="bottom-tab" data-nav="mylist">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>
+      <span data-i18n="nav_mylist">My List</span>
+    </a>
+  </nav>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <p class="footer-desc" data-i18n="footer_desc">Created by 0xjaylen</p>
+      </div>
+      <div class="footer-links-grid">
+        <div>
+          <h4 data-i18n="nav_home">Catalog</h4>
+          <ul>
+            <li><a href="#heroes" data-i18n="nav_heroes">All Heroes</a></li>
+            <li><a href="#items" data-i18n="nav_items">Equipment &amp; Recipes</a></li>
+            <li><a href="#lore" data-i18n="nav_lore">Lore &amp; Factions</a></li>
+            <li><a href="#emblems" data-i18n="nav_emblems">Emblems &amp; Spells</a></li>
+            <li><a href="#draft" data-i18n="nav_draft">Draft Matrix &amp; Counters</a></li>
+            <li><a href="#sandbox" data-i18n="nav_sandbox">Build Lab &amp; DPS Calculator</a></li>
+            <li><a href="#map" data-i18n="nav_map">Land of Dawn 3D Map</a></li>
+            <li><a href="#account" data-i18n="nav_account">Account &amp; Match History</a></li>
+            <li><a href="#mylist" data-i18n="nav_mylist">My Saved List</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Roles</h4>
+          <ul>
+            <li><a href="#heroes?role=Tank">Tank</a></li>
+            <li><a href="#heroes?role=Fighter">Fighter</a></li>
+            <li><a href="#heroes?role=Assassin">Assassin</a></li>
+            <li><a href="#heroes?role=Mage">Mage</a></li>
+            <li><a href="#heroes?role=Marksman">Marksman</a></li>
+            <li><a href="#heroes?role=Support">Support</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>Created by 0xjaylen</span>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js" defer></script>
+  <script src="js/data-bundle.js" defer></script>
+  <script src="js/app.js" defer></script>
+</body>
+</html>

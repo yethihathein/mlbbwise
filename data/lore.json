@@ -1,0 +1,213 @@
+[
+  {
+    "id": "lore-moniyan-vanguard",
+    "title": "Shield of Lumini: The Light's Order & House Wertz",
+    "region": "Moniyan Empire",
+    "era": "Age of Twilight",
+    "readTime": "5 min read",
+    "themeColor": "#3b82f6",
+    "featured": true,
+    "summary": "How Commander Tigreal and his high-flying sister Fanny defend the southern ramparts of the Moniyan Empire while Swan Castle's Princess Odette weaves arcane harmony.",
+    "chapters": [
+      {
+        "heading": "I. The Oath of House Wertz",
+        "body": "For three hundred years, House Wertz has stood as the sword and shield of the Moniyan Emperor. When the Abyssal crack widened in the Barren Lands, young Tigreal took up the Warhammer of Dawn and led the Imperial Knights to the blood-soaked borderlands. Refusing to sacrifice his vanguard for hollow noble glory during the Second Siege, Tigreal endured exile in the Northern Vale before returning to reclaim his mantle as Commander."
+      },
+      {
+        "heading": "II. Wings Over the Ramparts",
+        "body": "Unwilling to remain a sheltered noblewoman inside Lumini City, Tigreal's younger sister Fanny engineered a pneumatic grapple harness anchored by twin steel cables. Launching from the cathedral spires and cliff walls of the Empire, she became the 'Blade Dancer'—intercepting Abyssal gargoyles and assassins in mid-air while her brother anchors the phalanx below."
+      },
+      {
+        "heading": "III. The Concerto of Regina Lake",
+        "body": "Further inland, on the mist-veiled waters of Regina Lake, House Alvin's heir Odette mastered the ancient Swan Song magic. Together with the Light's Order, Swan Castle forms the spiritual heart of the Empire—uniting steel discipline with transcendent harmonic magic."
+      }
+    ],
+    "relatedHeroes": [
+      "tigreal",
+      "fanny",
+      "odette",
+      "miya",
+      "balmond",
+      "alice",
+      "nana",
+      "alucard",
+      "karina",
+      "akai",
+      "franco",
+      "bane",
+      "rafaela",
+      "eudora",
+      "freya",
+      "gord",
+      "natalia",
+      "sun"
+    ],
+    "relatedItems": [
+      "dominance-ice",
+      "blade-of-the-heptaseas",
+      "winter-crown"
+    ]
+  },
+  {
+    "id": "lore-paxley-curse",
+    "title": "Blood & Shards: The Secret of Castle Aberleen",
+    "region": "Moniyan Empire (Duchy of Aberleen)",
+    "era": "Era of Noble Houses",
+    "readTime": "6 min read",
+    "themeColor": "#06b6d4",
+    "featured": true,
+    "summary": "Inside Castle Aberleen, Duke Aamon and his exiled brother Gusion confront the dark blood-ritual heritage of House Paxley.",
+    "chapters": [
+      {
+        "heading": "I. The Rebel Fourth Son",
+        "body": "House Paxley commands reverence across the Moniyan Empire as pious guardians of orthodox light magic. Yet Gusion, fourth son of the family, despised slow incantations—channeling light energy into physical throwing daggers that move faster than the eye can track. Branded a heretic during the Rite of Aberleen, Gusion shattered the family dais and fled into the night."
+      },
+      {
+        "heading": "II. The Duke in the Shadows",
+        "body": "Left behind to inherit the title of Duke, Aamon uncovered the horrifying truth hidden in the vaults of Castle Aberleen: House Paxley's magic was never pure blessing from the Lord of Light, but an ancient blood-soul siphon. Ordered by the elders to execute Gusion, Aamon instead assassinated the corrupt council elders with his invisible armor shards, silently protecting his brother from afar."
+      }
+    ],
+    "relatedHeroes": [
+      "gusion",
+      "aamon",
+      "valentina",
+      "melissa",
+      "marcel"
+    ],
+    "relatedItems": [
+      "genius-wand",
+      "sky-piercer",
+      "feather-of-heaven"
+    ]
+  },
+  {
+    "id": "lore-cadia-shadows",
+    "title": "Dragon & Umbrella: The Schism of Cadia Riverlands",
+    "region": "Cadia Riverlands",
+    "era": "Epoch of the Twin Dragons",
+    "readTime": "6 min read",
+    "themeColor": "#9333ea",
+    "featured": true,
+    "summary": "As Yu Zhong awakens the forbidden Reverse Scale of the Black Dragon, Onmyouji heiress Kagura wields the hundred-spirit Seimei Umbrella to preserve cosmic balance.",
+    "chapters": [
+      {
+        "heading": "I. The Reverse Scale Awakens",
+        "body": "For millennia, the Great Dragon sheltered the Cadia Riverlands in tranquil isolation. Convinced that peace had made the realm fragile before the coming Twilight Orb war, Yu Zhong shattered the seal of the Dragon Altar and fused his soul with the Reverse Scale—reincarnating as the fierce Black Dragon."
+      },
+      {
+        "heading": "II. Yin and Yang of Seimei Valley",
+        "body": "In the mist-draped shrines of Seimei Valley, young Kagura inherited the sacred Seimei Umbrella—a spiritual artifact forged by the first Onmyouji Master. Balancing Yin attraction and Yang repulsion, Kagura stepped into the gathering storm to protect both her childhood companion Hayabusa and the spiritual equilibrium of the Riverlands."
+      }
+    ],
+    "relatedHeroes": [
+      "yu-zhong",
+      "kagura",
+      "clint",
+      "zilong",
+      "hayabusa",
+      "yi-sun-shin",
+      "helcurt",
+      "hanabi",
+      "change",
+      "hanzo",
+      "ling",
+      "baxia",
+      "wanwan",
+      "luo-yi",
+      "barats",
+      "gloo",
+      "yin",
+      "zetian"
+    ],
+    "relatedItems": [
+      "war-axe",
+      "oracle",
+      "lightning-truncheon",
+      "holy-crystal"
+    ]
+  },
+  {
+    "id": "lore-eruditio-nexus",
+    "title": "City of Scholars: Eruditio's Dawnbreak & Lab 1718",
+    "region": "Eruditio",
+    "era": "Age of Innovation",
+    "readTime": "7 min read",
+    "themeColor": "#f59e0b",
+    "featured": true,
+    "summary": "From Layla's Malefic Cannon and Beatrix's four modular firearms to Angela's synthetic heart and Diggie's Temporal Nest—discover the technological capital of the Land of Dawn.",
+    "chapters": [
+      {
+        "heading": "I. The Leviathan Workshop & Dawnbreak",
+        "body": "Powered by arcane-mechanical reactors, the free city-state of Eruditio stands as a beacon of human ingenuity. While Layla patrols the city gates with her father's Malefic Energy Gun, prodigy weaponsmith Beatrix operates from Castle Leviathan's orbital relay—fielding four neural-linked weapons (Renner, Bennett, Wesker, and Nibiru) at once."
+      },
+      {
+        "heading": "II. The Escape from Laboratory 1718",
+        "body": "When extremist scientists of Lab 1718 began weaponizing living cyborgs, Dr. Baker created Model A-1 ('Angela')—an android programmed purely around love, protection, and self-sacrifice. Launching Angela's pod to Eruditio, Dr. Baker ensured that compassion would outlive Lab 1718's madness."
+      },
+      {
+        "heading": "III. Thieves, Kung Fu & Chrono-Owls",
+        "body": "Within Eruditio's bustling plazas, master thief Claude and his monkey Dexter test the city's holographic vaults, martial artist Chou defends the Antoinerei district with Jeet Kune Do, and Timekeeper Diggie rewinds localized time loops from the Grand Clock Tower."
+      }
+    ],
+    "relatedHeroes": [
+      "layla",
+      "beatrix",
+      "angela",
+      "claude",
+      "diggie",
+      "chou",
+      "karrie",
+      "saber",
+      "bruno",
+      "lolita",
+      "alpha",
+      "johnson",
+      "xborg",
+      "ixia",
+      "nolan",
+      "chip"
+    ],
+    "relatedItems": [
+      "malefic-gun",
+      "demon-hunter-sword",
+      "flask-of-the-oasis",
+      "fleeting-time"
+    ]
+  },
+  {
+    "id": "lore-agelta-sands",
+    "title": "Tomb of Arnak: The Desert Tyrant's Return",
+    "region": "Agelta Drylands",
+    "era": "Ancient Arnak Dynasty",
+    "readTime": "4 min read",
+    "themeColor": "#d97706",
+    "featured": false,
+    "summary": "Buried beneath shifting golden dunes for centuries, the cursed tyrant Khufra shatters his astrological seal while treasure hunters like Claude prowl the ruins.",
+    "chapters": [
+      {
+        "heading": "I. The Curse of Eslora",
+        "body": "Obsessed with conquering the entire Western Continent, King Khufra of Arnak drank from the dark energies of an ancient orb. Heartbroken by his descent into tyranny, his beloved astrologer Eslora wove enchanted bandages imbued with starlight to bind Khufra in eternal slumber beneath the desert."
+      },
+      {
+        "heading": "II. Tremors in the Drylands",
+        "body": "When Claude's treasure-hunting escapades and Abyssal shockwaves disturbed the subterranean ruins, Khufra's bandages snapped. Now infused with bothSpell Curse energy and unquenchable fury, the Desert Tyrant marches once more."
+      }
+    ],
+    "relatedHeroes": [
+      "khufra",
+      "claude",
+      "minotaur",
+      "moskov",
+      "aldous",
+      "esmeralda",
+      "khaleed",
+      "mathilda",
+      "sora"
+    ],
+    "relatedItems": [
+      "antique-cuirass",
+      "blade-armor",
+      "golden-staff"
+    ]
+  }
+]

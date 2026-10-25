@@ -1,0 +1,3274 @@
+[
+  {
+    "id": "blade-of-despair",
+    "name": "Blade of Despair",
+    "category": "Attack",
+    "tier": 3,
+    "price": 3010,
+    "color": "#22c55e",
+    "stats": [
+      "+160 Physical Attack",
+      "+5% Movement Speed"
+    ],
+    "passive": "Unique Passive — Despair: Dealing damage to non-Minion enemies below 50% HP increases Physical Attack by 25% for 2 seconds (takes effect before the damage is dealt).",
+    "active": null,
+    "cooldown": "None",
+    "description": "The emerald-forged greatsword of ultimate physical devastation, granting the highest single-item Physical Attack in the Land of Dawn.",
+    "tips": "Because Despair triggers before the hit lands on targets under 50% HP, it supercharges execution skills like Fanny's Cut Throat and Beatrix's Renner.",
+    "whenToBuild": "When snowballing ahead on Assassins or as a 4th/5th slot capstone on Marksmen.",
+    "buildsFrom": [
+      "legion-sword",
+      "legion-sword"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "fanny",
+      "beatrix",
+      "layla",
+      "chou",
+      "saber",
+      "karina",
+      "hayabusa",
+      "natalia",
+      "yi-sun-shin",
+      "harley",
+      "lancelot",
+      "helcurt"
+    ],
+    "icon": "assets/items/blade-of-despair.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/blade-of-despair.png"
+  },
+  {
+    "id": "berserkers-fury",
+    "name": "Berserker's Fury",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2390,
+    "color": "#ef4444",
+    "stats": [
+      "+65 Physical Attack"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +40% Crit Damage | Unique Passive — Doom: Critical strikes grant 5% extra Physical Attack for 2 seconds.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Brutal double-bitted battleaxe that amplifies critical strike multipliers to lethal levels.",
+    "tips": "Pair with Windtalker and Haas's Claws for 60%+ Critical Chance and massive 240%+ Critical Damage.",
+    "whenToBuild": "Second core item on Crit Marksmen like Layla.",
+    "buildsFrom": [
+      "legion-sword",
+      "rogue-meteor"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "layla"
+    ],
+    "icon": "assets/items/berserkers-fury.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/berserker-s-fury.png"
+  },
+  {
+    "id": "endless-battle",
+    "name": "Endless Battle",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2330,
+    "color": "#ef4444",
+    "stats": [
+      "+60 Physical Attack",
+      "+5 Magic Power",
+      "+250 Hp",
+      "+5% Movement Speed",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Divine Justice: After casting a skill, the next Basic Attack within 3 seconds deals (60% Total Physical Attack) extra True Damage and recovers 80 (+40% of Total Physical Attack) HP (1.5 seconds cooldown).",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Attack equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +60 Physical Attack, +5 Magic Power efficiency for Attack builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "vampire-mallet",
+      "azure-blade",
+      "ogre-tomahawk"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/endless-battle.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/endless-battle.png"
+  },
+  {
+    "id": "demon-hunter-sword",
+    "name": "Demon Hunter Sword",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2180,
+    "color": "#a855f7",
+    "stats": [
+      "+35 Physical Attack",
+      "+20% Attack Speed",
+      "+8% Physical Lifesteal"
+    ],
+    "passive": "Unique Passive — Engulf: Basic Attacks deal 8% of the target's current HP as extra physical damage (capped at 60 against minions). | Unique Passive — Devour: Basic Attacks grant 2% Lifesteal for 3 seconds (stacks up to 5 times).",
+    "active": null,
+    "cooldown": "On-Hit",
+    "description": "Demon-slaying blade whose on-hit percentage health shred tears through high-HP frontliners.",
+    "tips": "Core centerpiece of the 'Trinity Build' alongside Golden Staff and Corrosion Scythe.",
+    "whenToBuild": "First item on Claude and Karrie, or whenever facing high-HP Tanks/Fighters.",
+    "buildsFrom": [
+      "regular-spear",
+      "vampire-mallet"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "claude",
+      "karrie",
+      "miya",
+      "bruno",
+      "clint",
+      "moskov",
+      "irithel",
+      "lesley",
+      "hanabi",
+      "kimmy",
+      "granger",
+      "wanwan"
+    ],
+    "icon": "assets/items/demon-hunter-sword.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/demon-hunter-sword.png"
+  },
+  {
+    "id": "great-dragon-spear",
+    "name": "Great Dragon Spear",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2140,
+    "color": "#ef4444",
+    "stats": [
+      "+70 Physical Attack",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Supreme Warrior: After casting an Ultimate, increase Movement Speed by 30% for 7.5 seconds. This effect has a 15 seconds cooldown.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Attack equipment used across the Land of Dawn (Attack specialization).",
+    "tips": "Provides +70 Physical Attack, +10% Cd Reduction efficiency for Attack builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "legion-sword",
+      "rogue-meteor"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/great-dragon-spear.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/great-dragon-spear.png"
+  },
+  {
+    "id": "malefic-gun",
+    "name": "Malefic Gun",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2120,
+    "color": "#eab308",
+    "stats": [
+      "+40 Physical Attack",
+      "+20% Attack Speed"
+    ],
+    "passive": "Unique Passive — Armor Buster: Increase Physical Penetration by 30%. | Unique Passive — Malefic Energy: Increases Basic Attack range by 12%. When hitting a target, gains 10% Movement Speed for 0.5 seconds.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Refined Leviathan Energy Rifle modeled after Layla's signature cannon, extending Basic Attack reach across the battlefield.",
+    "tips": "Turns Layla into an untouchable siege turret with +15% bonus range and +20% Armor Penetration.",
+    "whenToBuild": "Mid-to-late game range and penetration item for Marksmen.",
+    "buildsFrom": [
+      "legion-sword",
+      "regular-spear"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "layla",
+      "beatrix",
+      "miya",
+      "bruno",
+      "clint",
+      "moskov",
+      "irithel",
+      "lesley",
+      "hanabi",
+      "kimmy",
+      "granger",
+      "wanwan"
+    ],
+    "icon": "assets/items/malefic-gun.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/malefic-gun.png"
+  },
+  {
+    "id": "war-axe",
+    "name": "War Axe",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2100,
+    "color": "#dc2626",
+    "stats": [
+      "+35 Physical Attack",
+      "+400 Hp",
+      "+10% Cd Reduction",
+      "+12% Spell Vamp"
+    ],
+    "passive": "Unique Passive — Fighting Spirit: Attacks grants 12 extra Physical Attack per second for 4 seconds, up to 6 stacks. Deals 10% extra True Damage based on the damage dealt (no damage reduction counted) at full stacks. (Marksmen, Mages, and Supports only receive 50% of these stacked effects.)",
+    "active": null,
+    "cooldown": "Ramp over 6s",
+    "description": "Blood-forged battleaxe that turns extended Fighter brawls into unstoppable True Damage rampages.",
+    "tips": "At 6 stacks, War Axe provides a whopping 24% total Spell Vamp and bonus True Damage on every skill.",
+    "whenToBuild": "First core item on sustained EXP Lane Fighters like Yu Zhong.",
+    "buildsFrom": [
+      "fury-hammer",
+      "heros-ring"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "yu-zhong",
+      "chou",
+      "balmond",
+      "alucard",
+      "bane",
+      "zilong",
+      "freya",
+      "sun",
+      "alpha",
+      "ruby",
+      "hilda",
+      "lapu-lapu"
+    ],
+    "icon": "assets/items/war-axe.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/war-axe.png"
+  },
+  {
+    "id": "malefic-roar",
+    "name": "Malefic Roar",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2060,
+    "color": "#ef4444",
+    "stats": [
+      "+60 Physical Attack"
+    ],
+    "passive": "Unique Passive — Armor Buster: Increase Physical Penetration by 30%. | Unique Passive — Breaker: When attacking an enemy, gains 0.1% extra Physical Penetration for each point of the enemy's Physical Defense, capped at 30%.",
+    "active": null,
+    "cooldown": "None",
+    "description": "Twin-barreled armor-piercing revolver that punches straight through stacked tank armor.",
+    "tips": "Against a Tank with 250+ Physical Defense, Malefic Roar ignores over half their armor.",
+    "whenToBuild": "Whenever enemies purchase Antique Cuirass, Dominance Ice, or Blade Armor.",
+    "buildsFrom": [
+      "legion-sword",
+      "fury-hammer"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "fanny",
+      "beatrix",
+      "chou",
+      "saber",
+      "karina",
+      "hayabusa",
+      "natalia",
+      "yi-sun-shin",
+      "harley",
+      "lancelot",
+      "helcurt",
+      "selena"
+    ],
+    "icon": "assets/items/malefic-roar.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/malefic-roar.png"
+  },
+  {
+    "id": "corrosion-scythe",
+    "name": "Corrosion Scythe",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2050,
+    "color": "#22c55e",
+    "stats": [
+      "+30 Physical Attack",
+      "+5% Movement Speed",
+      "+30% Attack Speed"
+    ],
+    "passive": "Unique Passive — Corrosive: Basic Attacks gain 80 extra Physical Damage and slow the target by 8% (halved for ranged Basic Attacks) for 1.5 seconds. Stacks up to 5 times. | Unique Passive — Impulse: Basic Attacks grant 6% extra Attack Speed for 3 seconds, capped at 5 stacks.",
+    "active": null,
+    "cooldown": "On-Hit",
+    "description": "Venom-dripping war scythe that cripples enemy movement while ramping attack speed to extreme levels.",
+    "tips": "Provides 60% total Attack Speed at 5 stacks while preventing enemies from walking away.",
+    "whenToBuild": "First or third item in the Attack Speed Trinity build.",
+    "buildsFrom": [
+      "regular-spear",
+      "swift-crossbow"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "karrie",
+      "claude",
+      "miya",
+      "bruno",
+      "clint",
+      "moskov",
+      "irithel",
+      "lesley",
+      "hanabi",
+      "kimmy",
+      "granger",
+      "wanwan"
+    ],
+    "icon": "assets/items/corrosion-scythe.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/corrosion-scythe.png"
+  },
+  {
+    "id": "sea-halberd",
+    "name": "Sea Halberd",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2050,
+    "color": "#ef4444",
+    "stats": [
+      "+80 Physical Attack",
+      "+20% Attack Speed"
+    ],
+    "passive": "Unique Passive — Lifebane: Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds. | Unique Passive — Punish: Increase damage by 8% against enemy heroes with higher extra HP.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Attack equipment used across the Land of Dawn (Attack_Speed specialization).",
+    "tips": "Provides +80 Physical Attack, +20% Attack Speed efficiency for Attack builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "regular-spear",
+      "dagger"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/sea-halberd.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/sea-halberd.png"
+  },
+  {
+    "id": "rose-gold-meteor",
+    "name": "Rose Gold Meteor",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2030,
+    "color": "#ef4444",
+    "stats": [
+      "+40 Physical Attack",
+      "+20% Attack Speed",
+      "+10% Physical Lifesteal"
+    ],
+    "passive": "Unique Passive — Dragon Scale: Every 1% Lifesteal increases Hybrid Defense by 1, up to 50 (effect is halved for non-Fighter heroes). | Unique Passive — Lifeline: When taking damage that reduces HP below 30%, gains a (120*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Attack equipment used across the Land of Dawn (Attack_Speed specialization).",
+    "tips": "Provides +40 Physical Attack, +20% Attack Speed efficiency for Attack builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "magic-blade",
+      "vampire-mallet"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion",
+      "saber",
+      "karina",
+      "hayabusa",
+      "natalia",
+      "yi-sun-shin",
+      "harley",
+      "lancelot",
+      "helcurt",
+      "selena"
+    ],
+    "icon": "assets/items/rose-gold-meteor.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/rose-gold-meteor.png"
+  },
+  {
+    "id": "haass-claws",
+    "name": "Haas's Claws",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2020,
+    "color": "#ef4444",
+    "stats": [
+      "+40 Physical Attack",
+      "+15% Attack Speed"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +20% Lifesteal | Unique Passive — Frenzy: Critical strikes grant 20% extra Attack Speed for 2 seconds.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Attack equipment used across the Land of Dawn (Attack_Speed specialization).",
+    "tips": "Provides +40 Physical Attack, +15% Attack Speed efficiency for Attack builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/haass-claws.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/haas-s-claws.png"
+  },
+  {
+    "id": "haas-claws",
+    "name": "Haas's Claws",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2020,
+    "color": "#dc2626",
+    "stats": [
+      "+30 Physical Attack",
+      "+15% Attack Speed",
+      "+20% Critical Chance",
+      "+20% Lifesteal"
+    ],
+    "passive": "Unique Passive — Frenzy: Critical Strikes grant +20% extra Attack Speed for 2s.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Blood-soaked gauntlet claws combining high Lifesteal with Critical Strike and Attack Speed.",
+    "tips": "Allows Marksmen to heal from 10% HP to full HP off a single jungle camp or minion wave.",
+    "whenToBuild": "Third core item in Critical Strike builds or sustain slot on Beatrix.",
+    "buildsFrom": [
+      "vampire-mallet",
+      "rogue-meteor"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "layla",
+      "beatrix"
+    ],
+    "icon": "assets/items/haas-claws.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/haas-s-claws.png"
+  },
+  {
+    "id": "hunter-strike",
+    "name": "Hunter Strike",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2010,
+    "color": "#a855f7",
+    "stats": [
+      "+80 Physical Attack",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +15 Physical Penetration | Unique Passive — Retribution: Dealing damage to the same enemy hero or creep 5 times in a row grants 50% extra Movement Speed that decays over 3 seconds (8 seconds cooldown).",
+    "active": null,
+    "cooldown": "8.0s",
+    "description": "Twin-pronged hunting glaive that grants explosive kiting speed after five rapid hits.",
+    "tips": "Yu Zhong's Sha Residue ticks and Beatrix's Nibiru SMG bursts instantly trigger the 5-hit speed boost.",
+    "whenToBuild": "Core mobility and penetration item for Fighters and Skill-based Marksmen.",
+    "buildsFrom": [
+      "legion-sword",
+      "fury-hammer",
+      "iron-hunting-bow"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "yu-zhong",
+      "beatrix",
+      "fanny",
+      "balmond",
+      "alucard",
+      "bane",
+      "zilong",
+      "freya",
+      "sun",
+      "alpha",
+      "ruby",
+      "hilda"
+    ],
+    "icon": "assets/items/hunter-strike.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/hunter-strike.png"
+  },
+  {
+    "id": "golden-staff",
+    "name": "Golden Staff",
+    "category": "Attack",
+    "tier": 3,
+    "price": 2000,
+    "color": "#f59e0b",
+    "stats": [
+      "+55 Physical Attack",
+      "+15% Attack Speed"
+    ],
+    "passive": "Unique Passive — Swift: Every 1% extra Crit Chance gained is converted into 1% extra Attack Speed. | Unique Passive — Endless Strike: After every 2 non-Crit Basic Attacks, the Attack Speed of the next Basic Attack is increased by 80% (and Attack Speed cap is increased to 500%) and triggers Attack Effects an additional 2 time(s).",
+    "active": null,
+    "cooldown": "Every 3rd Basic Attack",
+    "description": "Mythical staff of the Monkey King that trades Critical Strikes for doubled on-hit procs.",
+    "tips": "Doubles Karrie's Lightwheel Mark stacks and Demon Hunter Sword's Devour proc on every 3rd shot.",
+    "whenToBuild": "Second item immediately after Demon Hunter Sword or Corrosion Scythe.",
+    "buildsFrom": [
+      "regular-spear",
+      "swift-crossbow"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "claude",
+      "karrie",
+      "miya",
+      "bruno",
+      "clint",
+      "moskov",
+      "irithel",
+      "lesley",
+      "hanabi",
+      "kimmy",
+      "granger",
+      "wanwan"
+    ],
+    "icon": "assets/items/golden-staff.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/golden-staff.png"
+  },
+  {
+    "id": "blade-of-the-heptaseas",
+    "name": "Blade of the Heptaseas",
+    "category": "Attack",
+    "tier": 3,
+    "price": 1950,
+    "color": "#06b6d4",
+    "stats": [
+      "+70 Physical Attack",
+      "+250 Hp"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +15 Physical Penetration | Unique Passive — Ambush: If no damage is taken or dealt within 5 seconds (excluding from Minions or Creeps), the next Basic Attack will deal an additional 160 (+40% Total Physical Attack) Physical Damage and slow the target by 40% for 1.5 seconds.",
+    "active": null,
+    "cooldown": "5s out of hero combat",
+    "description": "Naval cutlass of the Seven Seas that rewards bush ambushes and sudden burst engagements.",
+    "tips": "Clearing jungle creeps or lane minions does NOT break the Ambush passive—only hero or turret combat does!",
+    "whenToBuild": "First core item on burst Assassins and ambush Fighters.",
+    "buildsFrom": [
+      "fury-hammer",
+      "vitality-crystal"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "fanny",
+      "chou",
+      "saber",
+      "karina",
+      "hayabusa",
+      "natalia",
+      "yi-sun-shin",
+      "harley",
+      "lancelot",
+      "helcurt",
+      "selena",
+      "hanzo"
+    ],
+    "icon": "assets/items/blade-of-the-heptaseas.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/blade-of-the-heptaseas.png"
+  },
+  {
+    "id": "wind-of-nature",
+    "name": "Wind of Nature",
+    "category": "Attack",
+    "tier": 3,
+    "price": 1910,
+    "color": "#38bdf8",
+    "stats": [
+      "+30 Physical Attack",
+      "+20% Attack Speed",
+      "+10% Physical Lifesteal"
+    ],
+    "passive": "Unique Passive — Unique Active - Wind Chant: Become immune to all Physical Damage for 2 seconds (duration is halved for non-Marksmen; 90 seconds cooldown).",
+    "active": "Unique Active — Wind Chant: Becomes immune to all Physical Damage for 2s (Duration halved to 1s when used by non-Marksman heroes). 70s cooldown.",
+    "cooldown": "70.0s",
+    "description": "Elven wind-blessed bow that renders Marksmen completely untouchable by physical assassins and rival marksmen for 2 seconds.",
+    "tips": "Press Wind Chant the exact moment Fanny cables toward you or an enemy Marksman opens fire.",
+    "whenToBuild": "Situational 4th–6th item on Marksmen against heavy Physical Burst.",
+    "buildsFrom": [
+      "vampire-mallet",
+      "regular-spear"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "claude",
+      "beatrix",
+      "karrie",
+      "layla",
+      "miya",
+      "bruno",
+      "clint",
+      "moskov",
+      "irithel",
+      "lesley",
+      "hanabi",
+      "kimmy"
+    ],
+    "icon": "assets/items/wind-of-nature.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/wind-of-nature.png"
+  },
+  {
+    "id": "windtalker",
+    "name": "Windtalker",
+    "category": "Attack",
+    "tier": 3,
+    "price": 1880,
+    "color": "#38bdf8",
+    "stats": [
+      "+20% Movement Speed",
+      "+35% Attack Speed"
+    ],
+    "passive": "Unique Passive — Typhoon: Every 5–2 seconds (reduced by 0.2 seconds for each Basic Attack), the next Basic Attack will hit up to 3 enemy units for 150–362 Magic Damage. (This attack can Crit and the damage increases to 200% against Minions.)",
+    "active": null,
+    "cooldown": "2.0s - 5.0s",
+    "description": "Storm-enchanted katana that accelerates waveclear and rotation speed for Critical Marksmen.",
+    "tips": "Cheap first item for Layla to clear Gold Lane waves fast and kite with +20 flat Movement Speed.",
+    "whenToBuild": "First item in Critical Strike Marksman builds.",
+    "buildsFrom": [
+      "rogue-meteor",
+      "swift-crossbow"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "layla"
+    ],
+    "icon": "assets/items/windtalker.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/windtalker.png"
+  },
+  {
+    "id": "sky-piercer",
+    "name": "Sky Piercer",
+    "category": "Attack",
+    "tier": 3,
+    "price": 1500,
+    "color": "#38bdf8",
+    "stats": [
+      "+60 Physical Attack",
+      "+15% Movement Speed"
+    ],
+    "passive": "Unique Passive — Lethality: After dealing damage to an enemy hero, executes the hero if their HP is lower than 4%. Gains 10 stack(s) of Lethality for each kill and loses 30% current stack(s) for each death. Each stack of Lethality increases the HP threshold of the execute effect by 0.1%, stacking up 80 times.",
+    "active": null,
+    "cooldown": "Passive Execute",
+    "description": "Twin-bladed celestial halberd that instantly executes low-health enemies and snowballs up to a 12% Max HP threshold.",
+    "tips": "Works on both Physical and Magic Assassins (Gusion, Aamon, Fanny, Beatrix) to guarantee targets never escape with 1 HP.",
+    "whenToBuild": "Early snowball item when getting kills in the Jungle or Gold Lane.",
+    "buildsFrom": [
+      "dagger",
+      "exotic-veil"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "gusion",
+      "aamon",
+      "fanny",
+      "beatrix",
+      "saber",
+      "karina",
+      "hayabusa",
+      "natalia",
+      "yi-sun-shin",
+      "harley",
+      "lancelot",
+      "helcurt"
+    ],
+    "icon": "assets/items/sky-piercer.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/sky-piercer.png"
+  },
+  {
+    "id": "magic-blade",
+    "name": "Magic Blade",
+    "category": "Attack",
+    "tier": 2,
+    "price": 1050,
+    "color": "#ef4444",
+    "stats": [
+      "+35 Physical Attack",
+      "+10% Physical Lifesteal"
+    ],
+    "passive": "Unique Passive — Lifeline: When taking damage that reduces HP below 30%, gains a (+60*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Attack equipment used across the Land of Dawn (Attack specialization).",
+    "tips": "Provides +35 Physical Attack, +10% Physical Lifesteal efficiency for Attack builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "dagger",
+      "magic-resist-cloak"
+    ],
+    "buildsInto": [
+      "rose-gold-meteor"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/magic-blade.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/magic-blade.png"
+  },
+  {
+    "id": "swift-crossbow",
+    "name": "Swift Crossbow",
+    "category": "Attack",
+    "tier": 2,
+    "price": 1000,
+    "color": "#ef4444",
+    "stats": [
+      "+20% Attack Speed"
+    ],
+    "passive": "Unique Passive — Crossbow: Each Basic Attack deals 40 extra Adaptive Damage. | Unique Passive — Impulse: Basic Attacks grant 3% extra Attack Speed for 3 seconds, capped at 5 stacks.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Attack equipment used across the Land of Dawn (Attack_Speed specialization).",
+    "tips": "Provides +20% Attack Speed efficiency for Attack builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "knife",
+      "knife"
+    ],
+    "buildsInto": [
+      "corrosion-scythe",
+      "golden-staff",
+      "windtalker",
+      "feather-of-heaven"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/swift-crossbow.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/swift-crossbow.png"
+  },
+  {
+    "id": "legion-sword",
+    "name": "Legion Sword",
+    "category": "Attack",
+    "tier": 2,
+    "price": 910,
+    "color": "#f97316",
+    "stats": [
+      "+60 Physical Attack"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Heavy broadsword issued to officers of the Moniyan Imperial Vanguard.",
+    "tips": "High raw Physical Attack component that builds into Blade of Despair, Malefic Roar, and Hunter Strike.",
+    "whenToBuild": "Mid-game physical power spike.",
+    "buildsFrom": [
+      "dagger",
+      "dagger"
+    ],
+    "buildsInto": [
+      "berserkers-fury",
+      "blade-of-despair",
+      "great-dragon-spear",
+      "hunter-strike",
+      "malefic-gun",
+      "malefic-roar"
+    ],
+    "recommendedHeroes": [
+      "fanny",
+      "beatrix",
+      "yu-zhong",
+      "chou"
+    ],
+    "icon": "assets/items/legion-sword.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/legion-sword.png"
+  },
+  {
+    "id": "rogue-meteor",
+    "name": "Rogue Meteor",
+    "category": "Attack",
+    "tier": 2,
+    "price": 900,
+    "color": "#eab308",
+    "stats": [
+      "+15% Attack Speed"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Spinning meteor flail favored by agile marksmen for critical volleys.",
+    "tips": "Essential crit-rate bridge for Windtalker, Berserker's Fury, and Haas's Claws.",
+    "whenToBuild": "When building a Critical Strike marksman kit.",
+    "buildsFrom": [
+      "knife",
+      "javelin"
+    ],
+    "buildsInto": [
+      "berserkers-fury",
+      "great-dragon-spear",
+      "windtalker",
+      "haas-claws"
+    ],
+    "recommendedHeroes": [
+      "layla"
+    ],
+    "icon": "assets/items/rogue-meteor.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/rogue-meteor.png"
+  },
+  {
+    "id": "fury-hammer",
+    "name": "Fury Hammer",
+    "category": "Attack",
+    "tier": 2,
+    "price": 830,
+    "color": "#ef4444",
+    "stats": [
+      "+35 Physical Attack"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Spiked warhammer capable of cracking light armor plating.",
+    "tips": "One of the most gold-efficient early game spikes for Physical Assassins—sometimes bought standalone at 3 minutes!",
+    "whenToBuild": "First item component on Fanny, Chou, or Beatrix.",
+    "buildsFrom": [
+      "dagger",
+      "dagger"
+    ],
+    "buildsInto": [
+      "blade-of-the-heptaseas",
+      "hunter-strike",
+      "malefic-roar",
+      "war-axe"
+    ],
+    "recommendedHeroes": [
+      "fanny",
+      "chou",
+      "beatrix",
+      "yu-zhong"
+    ],
+    "icon": "assets/items/fury-hammer.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/fury-hammer.png"
+  },
+  {
+    "id": "ogre-tomahawk",
+    "name": "Ogre Tomahawk",
+    "category": "Attack",
+    "tier": 2,
+    "price": 650,
+    "color": "#ef4444",
+    "stats": [
+      "+25 Physical Attack",
+      "+230 Hp"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Attack equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +25 Physical Attack, +230 Hp efficiency for Attack builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "dagger",
+      "vitality-crystal"
+    ],
+    "buildsInto": [
+      "endless-battle"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/ogre-tomahawk.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/ogre-tomahawk.png"
+  },
+  {
+    "id": "regular-spear",
+    "name": "Regular Spear",
+    "category": "Attack",
+    "tier": 2,
+    "price": 600,
+    "color": "#f59e0b",
+    "stats": [
+      "+20 Physical Attack",
+      "+10% Attack Speed"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Balanced infantry polearm combining reach and swift thrusts.",
+    "tips": "Bridges basic Dagger and Knife into top-tier Marksman items.",
+    "whenToBuild": "Early Gold Lane progression.",
+    "buildsFrom": [
+      "dagger",
+      "knife"
+    ],
+    "buildsInto": [
+      "corrosion-scythe",
+      "demon-hunter-sword",
+      "golden-staff",
+      "malefic-gun",
+      "sea-halberd",
+      "wind-of-nature"
+    ],
+    "recommendedHeroes": [
+      "claude",
+      "karrie",
+      "layla"
+    ],
+    "icon": "assets/items/regular-spear.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/regular-spear.png"
+  },
+  {
+    "id": "expert-gloves",
+    "name": "Expert Gloves",
+    "category": "Attack",
+    "tier": 2,
+    "price": 500,
+    "color": "#ef4444",
+    "stats": [
+      "+30 Physical Attack"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Attack equipment used across the Land of Dawn (Attack & Magic specialization).",
+    "tips": "Provides +30 Physical Attack efficiency for Attack builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "book-of-sages"
+    ],
+    "buildsInto": [
+      "fleeting-time"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/expert-gloves.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/expert-gloves.png"
+  },
+  {
+    "id": "iron-hunting-bow",
+    "name": "Iron Hunting Bow",
+    "category": "Attack",
+    "tier": 1,
+    "price": 450,
+    "color": "#ef4444",
+    "stats": [
+      "+10 Physical Attack",
+      "+5% Cd Reduction"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Attack equipment used across the Land of Dawn (Attack specialization).",
+    "tips": "Provides +10 Physical Attack, +5% Cd Reduction efficiency for Attack builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "hunter-strike"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/iron-hunting-bow.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/iron-hunting-bow.png"
+  },
+  {
+    "id": "vampire-mallet",
+    "name": "Vampire Mallet",
+    "category": "Attack",
+    "tier": 1,
+    "price": 400,
+    "color": "#dc2626",
+    "stats": [
+      "+8 Physical Attack",
+      "+8% Physical Lifesteal"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "A crimson-runed gavel that siphons vitality on every physical strike.",
+    "tips": "Great sustain bridge item for Gold Laners before finishing Haas's Claws or DHS.",
+    "whenToBuild": "When facing heavy poke in the Gold Lane.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "demon-hunter-sword",
+      "endless-battle",
+      "rose-gold-meteor",
+      "wind-of-nature",
+      "haas-claws"
+    ],
+    "recommendedHeroes": [
+      "claude",
+      "layla",
+      "beatrix"
+    ],
+    "icon": "assets/items/vampire-mallet.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/vampire-mallet.png"
+  },
+  {
+    "id": "javelin",
+    "name": "Javelin",
+    "category": "Attack",
+    "tier": 1,
+    "price": 320,
+    "color": "#ef4444",
+    "stats": [
+      "+Attack Attribute"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Attack equipment used across the Land of Dawn (Attack specialization).",
+    "tips": "Provides Attack efficiency for Attack builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "rogue-meteor"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/javelin.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/javelin.png"
+  },
+  {
+    "id": "knife",
+    "name": "Knife",
+    "category": "Attack",
+    "tier": 1,
+    "price": 280,
+    "color": "#eab308",
+    "stats": [
+      "+10% Attack Speed"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "A lightweight balanced throwing blade that accelerates strike cadence.",
+    "tips": "Cheap early attack speed boost for Marksmen.",
+    "whenToBuild": "First recall on Attack Speed carries.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "regular-spear",
+      "rogue-meteor",
+      "swift-crossbow",
+      "swift-boots"
+    ],
+    "recommendedHeroes": [
+      "claude",
+      "karrie",
+      "layla"
+    ],
+    "icon": "assets/items/knife.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/knife.png"
+  },
+  {
+    "id": "dagger",
+    "name": "Dagger",
+    "category": "Attack",
+    "tier": 1,
+    "price": 250,
+    "color": "#ef4444",
+    "stats": [
+      "+15 Physical Attack"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "A standard steel sidearm forged for mercenaries across the Land of Dawn.",
+    "tips": "Foundational component for almost all Physical Attack weapons.",
+    "whenToBuild": "Early laning phase component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "fury-hammer",
+      "legion-sword",
+      "magic-blade",
+      "ogre-tomahawk",
+      "regular-spear",
+      "sea-halberd",
+      "sky-piercer"
+    ],
+    "recommendedHeroes": [
+      "fanny",
+      "beatrix",
+      "claude",
+      "chou"
+    ],
+    "icon": "assets/items/dagger.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/dagger.png"
+  },
+  {
+    "id": "guardian-helmet",
+    "name": "Guardian Helmet",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2500,
+    "color": "#22c55e",
+    "stats": [
+      "+1820 Hp"
+    ],
+    "passive": "Unique Passive — Recovery: After 5 seconds out of combat, recover (2.5% Total HP) HP per second. | Unique Passive — Defender: Upon taking more than 500 damage in a single instance, recover 20 (+0.3% Total HP)% HP from the excess damage beyond that amount.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +1820 Hp efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "ares-belt",
+      "vitality-crystal",
+      "healing-necklace"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/guardian-helmet.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/guardian-helmet.png"
+  },
+  {
+    "id": "queens-wings",
+    "name": "Queen's Wings",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2250,
+    "color": "#22c55e",
+    "stats": [
+      "+30 Physical Attack",
+      "+750 Hp",
+      "+10% Cd Reduction",
+      "+10% Spell Vamp"
+    ],
+    "passive": "Unique Passive — Demonize: When HP drops below 40%, gains 30% Damage Reduction for 3 seconds and reduces skill cooldowns by 2 seconds. This effect has a 60 seconds cooldown. | Unique Passive — Defiance: For every 1% HP lost, damage is increased by 0.25%, up to 15%.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +30 Physical Attack, +750 Hp efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "ares-belt",
+      "heros-ring"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/queens-wings.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/queen-s-wings.png"
+  },
+  {
+    "id": "antique-cuirass",
+    "name": "Antique Cuirass",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2170,
+    "color": "#f97316",
+    "stats": [
+      "+924 Hp",
+      "+40 Physical Defense"
+    ],
+    "passive": "Unique Passive — Deter: When hit by a skill, reduces the attacker's Physical Damage by 6% for 2 seconds (this effect stacks up to 3 times).",
+    "active": null,
+    "cooldown": "On Skill Hit Taken",
+    "description": "Ancient dragon-scale breastplate that saps up to 18% of an attacker's Physical Damage when hit by skills.",
+    "tips": "Hard-counters Physical Skill casters (Fanny, Beatrix, Yu Zhong, Chou). Note: against Basic Attack Marksmen, build Blade Armor instead!",
+    "whenToBuild": "Against Physical Assassins and Fighters.",
+    "buildsFrom": [
+      "dreadnaught-armor",
+      "ares-belt"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou",
+      "fanny",
+      "alice",
+      "akai",
+      "franco",
+      "minotaur",
+      "johnson",
+      "gatotkaca",
+      "grock",
+      "hylos"
+    ],
+    "icon": "assets/items/antique-cuirass.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/antique-cuirass.png"
+  },
+  {
+    "id": "athenas-shield",
+    "name": "Athena's Shield",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2150,
+    "color": "#a855f7",
+    "stats": [
+      "+902 Hp",
+      "+48 Magic Defense"
+    ],
+    "passive": "Unique Passive — Shield: Upon taking Magic Damage from enemy hero skills or Basic Attacks, reduces Magic Damage taken by 25% for 3 second (including the damage that triggers the effect)s. Regains this effect 5 seconds after leaving combat.",
+    "active": null,
+    "cooldown": "5s out of combat",
+    "description": "Divine aegis that reduces incoming Magic Burst by a flat 25% for 3 seconds.",
+    "tips": "The ultimate counter to one-shot Magic Assassins and Mages like Gusion, Kagura, Odette, and Aamon.",
+    "whenToBuild": "Whenever enemy Gusion, Kagura, or Aamon starts snowballing.",
+    "buildsFrom": [
+      "silence-robe",
+      "magic-resist-cloak"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou",
+      "fanny",
+      "karrie",
+      "diggie",
+      "alice",
+      "akai",
+      "franco",
+      "rafaela",
+      "minotaur",
+      "lolita"
+    ],
+    "icon": "assets/items/athenas-shield.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/athena-s-shield.png"
+  },
+  {
+    "id": "immortality",
+    "name": "Immortality",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2120,
+    "color": "#eab308",
+    "stats": [
+      "+850 Hp",
+      "+15 Physical Defense"
+    ],
+    "passive": "Unique Passive — Immortal: Resurrect 2.5 seconds upon death and gets 16% Max HP and a shield that can absorb 150(+70*Hero Level）damage. Shield lasts 3 seconds. This effect has a 210 seconds cooldown.",
+    "active": null,
+    "cooldown": "210.0s",
+    "description": "Golden ankh shield of resurrection that grants a second life in decisive late-game teamfights.",
+    "tips": "Pro tip: While reviving during the 2.5s animation, open the shop to sell Immortality and quick-buy Winter Crown!",
+    "whenToBuild": "5th or 6th slot late-game insurance on every role.",
+    "buildsFrom": [
+      "ares-belt",
+      "leather-jerkin"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "yu-zhong",
+      "chou",
+      "claude",
+      "angela",
+      "diggie",
+      "balmond",
+      "alice",
+      "alucard",
+      "akai",
+      "franco"
+    ],
+    "icon": "assets/items/immortality.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/immortality.png"
+  },
+  {
+    "id": "chastise-pauldron",
+    "name": "Chastise Pauldron",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2100,
+    "color": "#22c55e",
+    "stats": [
+      "+900 Hp",
+      "+40 Physical Defense"
+    ],
+    "passive": "Unique Passive — Chastise: Taking damage will reduce the Attack Speed and Attack Speed cap of the attacker to 75% of normal for 2 seconds. | Unique Passive — Redemption: When incoming damage reduces HP below 30%, recover 20% Max HP over the next 2 seconds. This effect has a 60 seconds cooldown.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +900 Hp, +40 Physical Defense efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "black-ice-shield",
+      "ares-belt"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/chastise-pauldron.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/chastise-pauldron.png"
+  },
+  {
+    "id": "brute-force-breastplate",
+    "name": "Brute Force Breastplate",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2070,
+    "color": "#22c55e",
+    "stats": [
+      "+800 Hp",
+      "+20 Physical Defense",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Brute Force: Each second after dealing damage, gain 8 extra Adaptive Attack and 2% extra Movement Speed for 4 seconds, up to 6 stacks. Gain 25% extra Control Duration Reduction at full stacks.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +800 Hp, +20 Physical Defense efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "heros-ring",
+      "leather-jerkin"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/brute-force-breastplate.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/brute-force-breastplate.png"
+  },
+  {
+    "id": "dominance-ice",
+    "name": "Dominance Ice",
+    "category": "Defense",
+    "tier": 3,
+    "price": 2010,
+    "color": "#38bdf8",
+    "stats": [
+      "+40 Physical Defense",
+      "+40 Magic Defense",
+      "+5% Movement Speed"
+    ],
+    "passive": "Unique Passive — Fortress Shield: For each enemy hero within 5 units, Hybrid Defense is increased by 8, up to 40. | Unique Passive — Lifebane: Taking damage will reduce the Shield and HP Regen effects of the attacker to 60% of normal for 1 second.",
+    "active": null,
+    "cooldown": "On Hit Taken",
+    "description": "Frozen crown of the Northern Vale that cripples enemy Attack Speed and cuts healing/shields in half.",
+    "tips": "First mandatory item on almost every Tank Roamer and EXP Fighter against sustain or Marksmen.",
+    "whenToBuild": "First item on Tigreal, Khufra, Chou, or Yu Zhong.",
+    "buildsFrom": [
+      "black-ice-shield",
+      "steel-legplates"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou",
+      "yu-zhong",
+      "diggie",
+      "balmond",
+      "alice",
+      "alucard",
+      "akai",
+      "franco",
+      "bane",
+      "rafaela"
+    ],
+    "icon": "assets/items/dominance-ice.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/dominance-ice.png"
+  },
+  {
+    "id": "winter-crown",
+    "name": "Winter Crown",
+    "category": "Defense",
+    "tier": 3,
+    "price": 1910,
+    "color": "#38bdf8",
+    "stats": [
+      "+45 Physical Attack",
+      "+400 Hp",
+      "+5% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Unique Active - Frozen: Becomes frozen, untarge, and immune to damage for 2 seconds (100 seconds cooldown). Cannot move or cast skills while frozen, but skills already cast won't be interrupted.",
+    "active": "Unique Active — Frozen: Freezes the wielder for 2s, rendering them untargetable and immune to all damage and debuffs (does NOT interrupt ongoing channeled skills like Odette's Swan Song!). 100s cooldown.",
+    "cooldown": "100.0s",
+    "description": "Glacial diadem of the Northern Vale that encases any hero in unbreakable stasis ice.",
+    "tips": "Because it grants Adaptive Attack and doesn't interrupt ongoing channels, Odette can cast Swan Song and immediately freeze herself while the AoE continues wiping the enemy team!",
+    "whenToBuild": "Late-game lifesaver for Mages, Assassins, Fighters, or Marksmen.",
+    "buildsFrom": [
+      "heros-ring",
+      "magic-wand"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "odette",
+      "gusion",
+      "chou",
+      "kagura"
+    ],
+    "icon": "assets/items/winter-crown.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/winter-crown.png"
+  },
+  {
+    "id": "blade-armor",
+    "name": "Blade Armor",
+    "category": "Defense",
+    "tier": 3,
+    "price": 1910,
+    "color": "#94a3b8",
+    "stats": [
+      "+80 Physical Defense"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +20% Crit Damage Reduction | Unique Passive — Bladed Armor: When struck by a Basic Attack, deals Physical Damage equal to 30 (+2% Total Physical Defense)% of the incoming damage (calculated before Damage Reduction) to the attacker and slows them by 15% for 1 second.",
+    "active": null,
+    "cooldown": "On Basic Attack Taken",
+    "description": "Razor-spiked plate armor that reflects Basic Attack volleys and reduces Critical Damage by 20%.",
+    "tips": "Combined with the Vengeance battle spell, Blade Armor causes Claude, Beatrix, and Layla to eliminate themselves on your thorns!",
+    "whenToBuild": "Against Critical Strike and Attack Speed Marksmen.",
+    "buildsFrom": [
+      "steel-legplates",
+      "leather-jerkin"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "alice",
+      "akai",
+      "franco",
+      "minotaur",
+      "johnson",
+      "gatotkaca",
+      "grock",
+      "hylos",
+      "uranus",
+      "belerick"
+    ],
+    "icon": "assets/items/blade-armor.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/blade-armor.png"
+  },
+  {
+    "id": "cursed-helmet",
+    "name": "Cursed Helmet",
+    "category": "Defense",
+    "tier": 3,
+    "price": 1910,
+    "color": "#22c55e",
+    "stats": [
+      "+1200 Hp",
+      "+20 Magic Defense"
+    ],
+    "passive": "Unique Passive — Burning Soul: Deals (1.2% Total HP) Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions. | Unique Passive — Curse: Dealing damage with Burning Soul will reduce the target's Hybrid Defense by 3 for 3 seconds. Stacks up to 3 times.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +1200 Hp, +20 Magic Defense efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "molten-essence",
+      "silence-robe"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/cursed-helmet.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/cursed-helmet.png"
+  },
+  {
+    "id": "radiant-armor",
+    "name": "Radiant Armor",
+    "category": "Defense",
+    "tier": 3,
+    "price": 1880,
+    "color": "#22c55e",
+    "stats": [
+      "+962 Hp",
+      "+40 Magic Defense"
+    ],
+    "passive": "Unique Passive — Holy Blessing: Taking Magic Damage grants 5(+1*Hero Level) Magic Defense for 5 seconds, up to 6 stacks ( can only gain 1 stack(s) every 0.4 seconds).",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +962 Hp, +40 Magic Defense efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "silence-robe",
+      "healing-necklace"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/radiant-armor.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/radiant-armor.png"
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "category": "Defense",
+    "tier": 3,
+    "price": 1860,
+    "color": "#22c55e",
+    "stats": [
+      "+850 Hp",
+      "+20 Physical Defense",
+      "+20 Magic Defense",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Bless: Received Shield and HP Regen effects are increased by 30%.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Emerald relic of the Moon Elf Sanctuary that amplifies all self-healing and shields by 30%.",
+    "tips": "Core item on Yu Zhong (boosts Cursing Touch healing by 30%) and heroes paired with an Angela.",
+    "whenToBuild": "3rd item on sustain Fighters like Yu Zhong.",
+    "buildsFrom": [
+      "silence-robe",
+      "heros-ring"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "yu-zhong",
+      "balmond",
+      "alucard",
+      "bane",
+      "zilong",
+      "freya",
+      "sun",
+      "alpha",
+      "ruby",
+      "hilda",
+      "lapu-lapu",
+      "roger"
+    ],
+    "icon": "assets/items/oracle.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/oracle.png"
+  },
+  {
+    "id": "thunder-belt",
+    "name": "Thunder Belt",
+    "category": "Defense",
+    "tier": 3,
+    "price": 1820,
+    "color": "#22c55e",
+    "stats": [
+      "+600 Hp",
+      "+15 Physical Defense",
+      "+15 Magic Defense",
+      "+20% Movement Speed"
+    ],
+    "passive": "Unique Passive — Thunderbolt: Every 4 seconds, the next Basic Attack deals 50 (+100% Extra Physical Defense) (+100% Extra Magic Defense) extra True Damage to the target and enemies around them, and briefly slows them by 99%. Hybrid Defense permanently increases by 1 each time the attack hits an enemy hero. (This effect is reduced to 50% for Marksmen and Mages)",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +600 Hp, +15 Physical Defense efficiency for Defense builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "ares-belt",
+      "leather-jerkin",
+      "magic-resist-cloak"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/thunder-belt.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/thunder-belt.png"
+  },
+  {
+    "id": "silence-robe",
+    "name": "Silence Robe",
+    "category": "Defense",
+    "tier": 2,
+    "price": 1020,
+    "color": "#a855f7",
+    "stats": [
+      "+540 Hp",
+      "+23 Magic Defense"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Sanctified vestment of the Monastery of Light that wards against dark magic.",
+    "tips": "Core bridge into Athena's Shield and Oracle.",
+    "whenToBuild": "Mid-game against burst Mages.",
+    "buildsFrom": [
+      "vitality-crystal",
+      "magic-resist-cloak"
+    ],
+    "buildsInto": [
+      "athenas-shield",
+      "cursed-helmet",
+      "oracle",
+      "radiant-armor"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "yu-zhong",
+      "chou"
+    ],
+    "icon": "assets/items/silence-robe.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/silence-robe.png"
+  },
+  {
+    "id": "molten-essence",
+    "name": "Molten Essence",
+    "category": "Defense",
+    "tier": 2,
+    "price": 800,
+    "color": "#22c55e",
+    "stats": [
+      "+540 Hp"
+    ],
+    "passive": "Unique Passive — Burning Soul: Deals (0.6% Total HP) Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +540 Hp efficiency for Defense builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "vitality-crystal"
+    ],
+    "buildsInto": [
+      "cursed-helmet"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/molten-essence.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/molten-essence.png"
+  },
+  {
+    "id": "black-ice-shield",
+    "name": "Black Ice Shield",
+    "category": "Defense",
+    "tier": 2,
+    "price": 780,
+    "color": "#38bdf8",
+    "stats": [
+      "+20 Physical Defense",
+      "+20 Magic Defense"
+    ],
+    "passive": "Unique Passive — Fortress Shield: For each enemy hero within 5 units, Hybrid Defense is increased by 4, up to 20.",
+    "active": null,
+    "cooldown": "On Hit Taken",
+    "description": "Glacial buckler from the Northern Vale that chills enemy attackers on contact.",
+    "tips": "Upgrades directly into Dominance Ice.",
+    "whenToBuild": "First tank component against Marksmen and Attack Speed fighters.",
+    "buildsFrom": [
+      "leather-jerkin",
+      "power-crystal"
+    ],
+    "buildsInto": [
+      "chastise-pauldron",
+      "dominance-ice"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou",
+      "diggie"
+    ],
+    "icon": "assets/items/black-ice-shield.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/black-ice-shield.png"
+  },
+  {
+    "id": "dreadnaught-armor",
+    "name": "Dreadnaught Armor",
+    "category": "Defense",
+    "tier": 2,
+    "price": 730,
+    "color": "#f97316",
+    "stats": [
+      "+30 Physical Defense"
+    ],
+    "passive": "Unique Passive — Deter: When hit by a skill, reduces the attacker's Physical Damage by 4% for 2 seconds (this effect stacks up to 3 times).",
+    "active": null,
+    "cooldown": "On Skill Hit Taken",
+    "description": "Layered iron breastplate that blunts physical skill combos.",
+    "tips": "Rush Dreadnaught Armor for just 730 gold to survive early Fanny, Beatrix, or Yu Zhong all-ins!",
+    "whenToBuild": "Early counter against physical skill casters.",
+    "buildsFrom": [
+      "leather-jerkin",
+      "leather-jerkin"
+    ],
+    "buildsInto": [
+      "antique-cuirass"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou"
+    ],
+    "icon": "assets/items/dreadnaught-armor.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/dreadnaught-armor.png"
+  },
+  {
+    "id": "ares-belt",
+    "name": "Ares Belt",
+    "category": "Defense",
+    "tier": 2,
+    "price": 700,
+    "color": "#22c55e",
+    "stats": [
+      "+600 Hp"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Heavy girdle of the War God that substantially expands maximum health.",
+    "tips": "Core HP component for Antique Cuirass and Immortality.",
+    "whenToBuild": "Mid-game tank progression.",
+    "buildsFrom": [
+      "vitality-crystal"
+    ],
+    "buildsInto": [
+      "antique-cuirass",
+      "chastise-pauldron",
+      "guardian-helmet",
+      "immortality",
+      "queens-wings",
+      "thunder-belt"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou"
+    ],
+    "icon": "assets/items/ares-belt.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/are-s-belt.png"
+  },
+  {
+    "id": "steel-legplates",
+    "name": "Steel Legplates",
+    "category": "Defense",
+    "tier": 2,
+    "price": 630,
+    "color": "#94a3b8",
+    "stats": [
+      "+35 Physical Defense"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Heavy greaves forged from tempered steel.",
+    "tips": "Super cheap 35 Physical Defense component that builds into Blade Armor or Dominance Ice.",
+    "whenToBuild": "Against Gold Lane Marksmen.",
+    "buildsFrom": [
+      "leather-jerkin"
+    ],
+    "buildsInto": [
+      "blade-armor",
+      "dominance-ice"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra"
+    ],
+    "icon": "assets/items/steel-legplates.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/steel-legplates.png"
+  },
+  {
+    "id": "heros-ring",
+    "name": "Hero's Ring",
+    "category": "Defense",
+    "tier": 2,
+    "price": 450,
+    "color": "#22c55e",
+    "stats": [
+      "+150 Hp",
+      "+5% Cd Reduction"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +150 Hp, +5% Cd Reduction efficiency for Defense builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "vitality-crystal",
+      "book-of-sages"
+    ],
+    "buildsInto": [
+      "war-axe",
+      "winter-crown",
+      "fleeting-time",
+      "brute-force-breastplate",
+      "oracle",
+      "queens-wings"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/heros-ring.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/hero-s-ring.png"
+  },
+  {
+    "id": "vitality-crystal",
+    "name": "Vitality Crystal",
+    "category": "Defense",
+    "tier": 1,
+    "price": 300,
+    "color": "#22c55e",
+    "stats": [
+      "+230 Hp"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Life-infused emerald crystal that bolsters a warrior's vitality.",
+    "tips": "Foundational HP component for almost all Defense and Fighter items.",
+    "whenToBuild": "Early game durability.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "blade-of-the-heptaseas",
+      "ogre-tomahawk",
+      "ares-belt",
+      "guardian-helmet",
+      "heros-ring",
+      "molten-essence",
+      "silence-robe",
+      "elegant-gem",
+      "flask-of-the-oasis",
+      "glowing-wand",
+      "ice-queen-wand"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "yu-zhong",
+      "chou"
+    ],
+    "icon": "assets/items/vitality-crystal.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/vitality-crystal.png"
+  },
+  {
+    "id": "leather-jerkin",
+    "name": "Leather Jerkin",
+    "category": "Defense",
+    "tier": 1,
+    "price": 220,
+    "color": "#f59e0b",
+    "stats": [
+      "+14 Physical Defense"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Reinforced boiled leather vest worn by Moniyan footmen.",
+    "tips": "Cheap early armor against physical harass.",
+    "whenToBuild": "Early game against physical laners.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "black-ice-shield",
+      "blade-armor",
+      "brute-force-breastplate",
+      "dreadnaught-armor",
+      "immortality",
+      "steel-legplates",
+      "thunder-belt",
+      "warrior-boots"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou",
+      "yu-zhong"
+    ],
+    "icon": "assets/items/leather-jerkin.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/leather-jerkin.png"
+  },
+  {
+    "id": "magic-resist-cloak",
+    "name": "Magic Resist Cloak",
+    "category": "Defense",
+    "tier": 1,
+    "price": 220,
+    "color": "#a855f7",
+    "stats": [
+      "+14 Magic Defense"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Spell-warded mantle that dampens arcane shockwaves.",
+    "tips": "Builds into Tough Boots, Silence Robe, Athena's Shield, and Oracle.",
+    "whenToBuild": "Early game against heavy magic poke.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "magic-blade",
+      "athenas-shield",
+      "silence-robe",
+      "thunder-belt",
+      "tough-boots"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "yu-zhong",
+      "chou"
+    ],
+    "icon": "assets/items/magic-resist-cloak.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/magic-resist-cloak.png"
+  },
+  {
+    "id": "healing-necklace",
+    "name": "Healing Necklace",
+    "category": "Defense",
+    "tier": 1,
+    "price": 140,
+    "color": "#22c55e",
+    "stats": [
+      "+4 Hp"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Defense equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +4 Hp efficiency for Defense builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "guardian-helmet",
+      "radiant-armor"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/healing-necklace.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/healing-necklace.png"
+  },
+  {
+    "id": "ice-retribution-boots",
+    "name": "Ice Retribution (Jungle Blessing)",
+    "category": "Jungling",
+    "tier": 3,
+    "price": 700,
+    "color": "#06b6d4",
+    "stats": [
+      "+40 Movement Speed",
+      "+150% Creep Damage via Retribution"
+    ],
+    "passive": "Unique Passive — Hunter: Basic Attacks and skills burn Creeps over 3s; slaying 5 Creeps unlocks the Hero-targeted Ice Retribution upgrade.",
+    "active": "Unique Active — Ice Retribution: Deals 100 True Damage to an enemy hero and steals 72–100 Movement Speed from the target for 4s!",
+    "cooldown": "35.0s",
+    "description": "Glacial Jungle Blessing that steals up to 100 Movement Speed from an enemy hero, guaranteeing gap-close or escape.",
+    "tips": "Favored by Fanny, Gusion, and Aamon to slow fleeing carries while gaining a burst of speed.",
+    "whenToBuild": "Select at 00:00 when playing Jungle role.",
+    "buildsFrom": [
+      "boots",
+      "tough-boots"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "fanny",
+      "gusion",
+      "aamon"
+    ],
+    "icon": "assets/items/ice-retribution-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/ice-retribution.png"
+  },
+  {
+    "id": "flame-retribution-boots",
+    "name": "Flame Retribution (Jungle Blessing)",
+    "category": "Jungling",
+    "tier": 3,
+    "price": 690,
+    "color": "#ef4444",
+    "stats": [
+      "+40 Movement Speed",
+      "+150% Creep Damage via Retribution"
+    ],
+    "passive": "Unique Passive — Hunter: Unlocks after slaying 5 Jungle Creeps or Hero takedowns.",
+    "active": "Unique Active — Flame Retribution: Deals 100 True Damage to an enemy hero and steals 58–100 Physical Attack & Magic Power from the target for 4s!",
+    "cooldown": "35.0s",
+    "description": "Infernal Jungle Blessing that drains an enemy's offensive power while supercharging your own.",
+    "tips": "Best used in 1v1 assassin duels to simultaneously weaken the enemy jungler and boost your own burst.",
+    "whenToBuild": "Alternative Jungle Blessing for Gusion and Aamon against duelist junglers.",
+    "buildsFrom": [
+      "boots",
+      "arcane-boots"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "gusion",
+      "aamon"
+    ],
+    "icon": "assets/items/flame-retribution-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/flame-retribution.png"
+  },
+  {
+    "id": "holy-crystal",
+    "name": "Holy Crystal",
+    "category": "Magic",
+    "tier": 3,
+    "price": 3000,
+    "color": "#22c55e",
+    "stats": [
+      "+185 Magic Power"
+    ],
+    "passive": "Unique Passive — Mystery: Gains 21%-35% extra Magic Power (scales with level).",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Pure emerald prism of concentrated mana, multiplying a mage's entire Magic Power pool by up to 35%.",
+    "tips": "Essential mid-to-late game multiplier for both burst Mages (Kagura, Gusion) and shield Supports (Angela).",
+    "whenToBuild": "3rd or 4th item once you have base Magic Penetration.",
+    "buildsFrom": [
+      "magic-wand",
+      "magic-wand"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "kagura",
+      "gusion",
+      "odette",
+      "aamon",
+      "angela",
+      "nana",
+      "eudora",
+      "gord",
+      "cyclops",
+      "aurora",
+      "vexana",
+      "zhask"
+    ],
+    "icon": "assets/items/holy-crystal.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/holy-crystal.png"
+  },
+  {
+    "id": "lightning-truncheon",
+    "name": "Lightning Truncheon",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2250,
+    "color": "#38bdf8",
+    "stats": [
+      "+475 Magic Power",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Resonate: Every 6 seconds, the next skill echoes, dealing 170 (+85% Magic Power) extra Magic Damage to all enemies in range.",
+    "active": null,
+    "cooldown": "6.0s",
+    "description": "Thunder-charged scepter that unleashes chain lightning and a burst of speed every 6 seconds.",
+    "tips": "Scales directly with Total Magic Power—pairs explosively with Holy Crystal and Blood Wings.",
+    "whenToBuild": "First or second item on poke/burst Mages like Kagura.",
+    "buildsFrom": [
+      "magic-wand",
+      "tome-of-evil"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "kagura",
+      "odette",
+      "nana",
+      "eudora",
+      "gord",
+      "cyclops",
+      "aurora",
+      "vexana",
+      "zhask",
+      "pharsa",
+      "valir",
+      "change"
+    ],
+    "icon": "assets/items/lightning-truncheon.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/lightning-truncheon.png"
+  },
+  {
+    "id": "wishing-lantern",
+    "name": "Wishing Lantern",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2250,
+    "color": "#a855f7",
+    "stats": [
+      "+475 Magic Power",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Butterfly Goddess: For every 800 Magic Damage dealt to an enemy hero (calculated before Damage Reduction), a Butterfly Goddess is summoned to attack the enemy hero, dealing Magic Damage equal to 8% of their Current HP.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +475 Magic Power, +10% Cd Reduction efficiency for Magic builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "magic-wand",
+      "tome-of-evil"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/wishing-lantern.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/wishing-lantern.png"
+  },
+  {
+    "id": "glowing-wand",
+    "name": "Glowing Wand",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2150,
+    "color": "#f97316",
+    "stats": [
+      "+75 Magic Power",
+      "+400 Hp",
+      "+5% Movement Speed"
+    ],
+    "passive": "Unique Passive — Scorch: Dealing Magic Damage burns the targets for 3 seconds, also dealing extra Magic Damage equal to 1% of the target's Max HP per second. | Unique Passive — Lifebane: Dealing damage to the target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Soul-scorching torch wand that combines percentage Max HP burn with 50% Anti-Heal.",
+    "tips": "Replaces Necklace of Durance as the premier Mage & Support anti-heal and burn item!",
+    "whenToBuild": "Core on Odette and Angela, and mandatory against sustain heroes like Yu Zhong or Angela.",
+    "buildsFrom": [
+      "magic-wand",
+      "vitality-crystal"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "odette",
+      "angela",
+      "kagura",
+      "nana",
+      "eudora",
+      "gord",
+      "cyclops",
+      "aurora",
+      "vexana",
+      "zhask",
+      "pharsa",
+      "valir"
+    ],
+    "icon": "assets/items/glowing-wand.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/glowing-wand.png"
+  },
+  {
+    "id": "starlium-scythe",
+    "name": "Starlium Scythe",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2120,
+    "color": "#a855f7",
+    "stats": [
+      "+76 Magic Power",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Crisis: After casting a skill, the next Basic Attack within 3 seconds deals 100 (+100% Total Magic Power) extra True Damage and reduces the target's Movement Speed by 40% for 1.5 seconds (5 seconds cooldown).",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +76 Magic Power, +10% Cd Reduction efficiency for Magic builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "azure-blade",
+      "tome-of-evil",
+      "mystic-container"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/starlium-scythe.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/starlium-scythe.png"
+  },
+  {
+    "id": "blood-wings",
+    "name": "Blood Wings",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2100,
+    "color": "#dc2626",
+    "stats": [
+      "+90 Magic Power"
+    ],
+    "passive": "Unique Passive — Guard: Gains a 800 (+100% Magic Power) Shield that will regenerate 20 seconds after being damaged. The Shield also grants 30 Movement Speed while it lasts and 150 Movement Speed for 1 second after it breaks.",
+    "active": null,
+    "cooldown": "20.0s Shield Recharge",
+    "description": "Crimson seraphim wings that cloak mages in a high-scaling arcane barrier and boost roaming speed.",
+    "tips": "Gives Mages ~1500+ extra effective HP against poke while speeding up map rotations.",
+    "whenToBuild": "Mid-to-late game survivability and Magic Power item.",
+    "buildsFrom": [
+      "magic-wand",
+      "exotic-veil"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "kagura",
+      "odette",
+      "angela"
+    ],
+    "icon": "assets/items/blood-wings.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/blood-wings.png"
+  },
+  {
+    "id": "fleeting-time",
+    "name": "Fleeting Time",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2050,
+    "color": "#38bdf8",
+    "stats": [
+      "+30 Physical Attack",
+      "+600 Hp",
+      "+15% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Timestream: Hero kills or assists reduce the Ultimate's current cooldown by 30%.",
+    "active": null,
+    "cooldown": "On Takedown",
+    "description": "Chrono-hourglass blade that refreshes high-impact Ultimates after every teamfight takedown.",
+    "tips": "With Adaptive Attack and 600 HP, Fleeting Time can now be built on Angela, Diggie, Tigreal, or Odette.",
+    "whenToBuild": "First or second item on Ultimate-reliant Supports and Roamers.",
+    "buildsFrom": [
+      "heros-ring",
+      "expert-gloves"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "angela",
+      "diggie",
+      "tigreal",
+      "odette",
+      "rafaela",
+      "lolita",
+      "estes",
+      "kaja",
+      "faramis",
+      "carmilla",
+      "mathilda",
+      "floryn"
+    ],
+    "icon": "assets/items/fleeting-time.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/fleeting-time.png"
+  },
+  {
+    "id": "ice-queen-wand",
+    "name": "Ice Queen Wand",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2040,
+    "color": "#a855f7",
+    "stats": [
+      "+75 Magic Power",
+      "+300 Hp",
+      "+7% Movement Speed",
+      "+10% Spell Vamp"
+    ],
+    "passive": "Unique Passive — Ice Bound: When a skill deals damage to an enemy hero, it will also slow them by 10% for 2 seconds (stacks up to 3 times). This effect has a 1 second cooldown.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Magic equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +75 Magic Power, +300 Hp efficiency for Magic builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "magic-wand",
+      "vitality-crystal"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/ice-queen-wand.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/ice-queen-wand.png"
+  },
+  {
+    "id": "clock-of-destiny",
+    "name": "Clock of Destiny",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2030,
+    "color": "#a855f7",
+    "stats": [
+      "+445 Magic Power",
+      "+400 Hp",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Destiny: Gains 4.5(+0.5*Hero Level) Hybrid Defense for 5 seconds when dealing Magic Damage to enemy heroes, stacking up to 6 times (can gain 1 stack every 0.4 second). | Unique Passive — Gift: When HP drops below 50%, recovers 15% of HP over the next 3 seconds. When Mana drops below 50%, restores 15% of Mana over the next 3 seconds. Cooldown: 60 seconds.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Magic equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +445 Magic Power, +400 Hp efficiency for Magic builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "elegant-gem",
+      "magic-wand"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/clock-of-destiny.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/clock-of-destiny.png"
+  },
+  {
+    "id": "feather-of-heaven",
+    "name": "Feather of Heaven",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2030,
+    "color": "#eab308",
+    "stats": [
+      "+55 Magic Power",
+      "+20% Attack Speed",
+      "+5% Cd Reduction",
+      "+10% Physical Lifesteal"
+    ],
+    "passive": "Unique Passive — Affliction: Each Basic Attack deals extra 50 (+30% Total Magic Power) Magic Damage. | Unique Passive — Impulse: Basic Attacks grant 6% extra Attack Speed for 3 seconds, capped at 5 stacks.",
+    "active": null,
+    "cooldown": "On-Hit",
+    "description": "Celestial golden plume that empowers Magic Basic Attacks with rapid attack speed and arcane on-hit strikes.",
+    "tips": "Core item on Aamon to rapidly weave empowered Basic Attacks between Camouflage casts.",
+    "whenToBuild": "First core item on Magic Basic Attack assassins and mages.",
+    "buildsFrom": [
+      "swift-crossbow",
+      "magic-wand",
+      "book-of-sages"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "aamon"
+    ],
+    "icon": "assets/items/feather-of-heaven.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/feather-of-heaven.png"
+  },
+  {
+    "id": "concentrated-energy",
+    "name": "Concentrated Energy",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2020,
+    "color": "#a855f7",
+    "stats": [
+      "+70 Magic Power",
+      "+400 Hp"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +20% Hybrid Lifesteal | Unique Passive — Recharge: Increases Magic Power by 5 after dealing Magic Damage (this effect stacks up to 6 times and can only gain 1 stack every 0.4 second). When reaching full stacks, increases Magic Damage by 12% for 5 seconds.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Magic equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +70 Magic Power, +400 Hp efficiency for Magic builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "magic-wand",
+      "mystic-container"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/concentrated-energy.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/concentrated-energy.png"
+  },
+  {
+    "id": "genius-wand",
+    "name": "Genius Wand",
+    "category": "Magic",
+    "tier": 3,
+    "price": 2000,
+    "color": "#06b6d4",
+    "stats": [
+      "+75 Magic Power",
+      "+5% Movement Speed"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +10 Magic Penetration | Unique Passive — Magic: Dealing Magic Damage to enemy heroes will reduce their Magic Defense by 3+(0.3*Hero Level) for 2 seconds. Stacks up to 3 times.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Arcane scepter that shreds enemy Magic Defense into negative values on multi-hit spells.",
+    "tips": "Combined with Arcane Boots, Genius Wand reduces squishy heroes' Magic Defense below zero for amplified true-like burst!",
+    "whenToBuild": "First or second core item on Gusion, Aamon, Odette, and Kagura.",
+    "buildsFrom": [
+      "magic-wand",
+      "exotic-veil"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "gusion",
+      "aamon",
+      "kagura",
+      "odette",
+      "nana",
+      "eudora",
+      "gord",
+      "cyclops",
+      "aurora",
+      "vexana",
+      "zhask",
+      "pharsa"
+    ],
+    "icon": "assets/items/genius-wand.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/genius-wand.png"
+  },
+  {
+    "id": "divine-glaive",
+    "name": "Divine Glaive",
+    "category": "Magic",
+    "tier": 3,
+    "price": 1970,
+    "color": "#ef4444",
+    "stats": [
+      "+65 Magic Power"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +40% Magic Penetration | Unique Passive — Spellbreaker: When attacking an enemy, gains 0.1% extra Magic Penetration for each point of the enemy's Magic Defense, capped at 20%.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Crimson polearm that pierces straight through Athena's Shield and Radiant Armor.",
+    "tips": "Mandatory purchase the moment enemy Tanks or Fighters build Magic Defense.",
+    "whenToBuild": "4th or 5th item against Magic Defense stacking.",
+    "buildsFrom": [
+      "magic-wand",
+      "exotic-veil"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "kagura",
+      "gusion",
+      "odette",
+      "aamon",
+      "nana",
+      "eudora",
+      "gord",
+      "cyclops",
+      "aurora",
+      "vexana",
+      "zhask",
+      "pharsa"
+    ],
+    "icon": "assets/items/divine-glaive.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/divine-glaive.png"
+  },
+  {
+    "id": "enchanted-talisman",
+    "name": "Enchanted Talisman",
+    "category": "Magic",
+    "tier": 3,
+    "price": 1870,
+    "color": "#a855f7",
+    "stats": [
+      "+50 Magic Power",
+      "+250 Hp",
+      "+20% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Mana Spring: Regenerates 15% of Max Mana every 10 seconds. | Unique Passive — Magic Mastery: Max Cooldown Reduction is increased by 5%.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-3 Magic equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +50 Magic Power, +250 Hp efficiency for Magic builds.",
+    "whenToBuild": "Late-game core slot.",
+    "buildsFrom": [
+      "tome-of-evil",
+      "book-of-sages"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/enchanted-talisman.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/enchanted-talisman.png"
+  },
+  {
+    "id": "flask-of-the-oasis",
+    "name": "Flask of the Oasis",
+    "category": "Magic",
+    "tier": 3,
+    "price": 1850,
+    "color": "#22c55e",
+    "stats": [
+      "+60 Magic Power",
+      "+300 Hp",
+      "+10% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Unique Attribute: +12% Healing Effect | Unique Passive — Blessing: When casting a healing or shield skill, if the target's HP is below 35%, or falls below 35% within 3 seconds, they will get a (100*Hero Level) shield that lasts 3 seconds. When this effect triggers, it also reduces the cooldown of the caster's skills by 2 seconds. (This effect can only trigger once every 60 seconds on the same target, and will not trigger on self-only healing and shield skills.)",
+    "active": null,
+    "cooldown": "40.0s",
+    "description": "Sacred desert chalice that supercharges ally shields and triggers an emergency lifesaving barrier.",
+    "tips": "Must-buy first item on Angela and Diggie—amplifies both Love Waves and Heartguard shields.",
+    "whenToBuild": "First core item on healing/shielding Supports.",
+    "buildsFrom": [
+      "tome-of-evil",
+      "vitality-crystal"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "angela",
+      "diggie",
+      "rafaela",
+      "lolita",
+      "estes",
+      "kaja",
+      "faramis",
+      "carmilla",
+      "mathilda",
+      "floryn",
+      "chip",
+      "kalea"
+    ],
+    "icon": "assets/items/flask-of-the-oasis.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/flask-of-the-oasis.png"
+  },
+  {
+    "id": "tome-of-evil",
+    "name": "Tome of Evil",
+    "category": "Magic",
+    "tier": 2,
+    "price": 950,
+    "color": "#6366f1",
+    "stats": [
+      "+39 Magic Power",
+      "+8% Cd Reduction"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Ancient forbidden manuscript brimming with self-replenishing mana.",
+    "tips": "Core CDR and Mana Regen bridge for Support and Poke Mages.",
+    "whenToBuild": "Early-to-mid game.",
+    "buildsFrom": [
+      "mystery-codex",
+      "magic-necklace",
+      "book-of-sages"
+    ],
+    "buildsInto": [
+      "enchanted-talisman",
+      "flask-of-the-oasis",
+      "lightning-truncheon",
+      "starlium-scythe",
+      "wishing-lantern"
+    ],
+    "recommendedHeroes": [
+      "angela",
+      "diggie",
+      "kagura"
+    ],
+    "icon": "assets/items/tome-of-evil.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/tome-of-evil.png"
+  },
+  {
+    "id": "magic-wand",
+    "name": "Magic Wand",
+    "category": "Magic",
+    "tier": 2,
+    "price": 820,
+    "color": "#8b5cf6",
+    "stats": [
+      "+45 Magic Power"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Crystal-tipped catalyst wand that amplifies arcane spell output.",
+    "tips": "Builds into Holy Crystal, Genius Wand, Glowing Wand, and Lightning Truncheon.",
+    "whenToBuild": "Mid-game mage component.",
+    "buildsFrom": [
+      "mystery-codex",
+      "mystery-codex"
+    ],
+    "buildsInto": [
+      "winter-crown",
+      "blood-wings",
+      "clock-of-destiny",
+      "concentrated-energy",
+      "divine-glaive",
+      "feather-of-heaven",
+      "genius-wand",
+      "glowing-wand",
+      "holy-crystal",
+      "ice-queen-wand",
+      "lightning-truncheon",
+      "wishing-lantern"
+    ],
+    "recommendedHeroes": [
+      "kagura",
+      "gusion",
+      "odette",
+      "aamon"
+    ],
+    "icon": "assets/items/magic-wand.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/magic-wand.png"
+  },
+  {
+    "id": "elegant-gem",
+    "name": "Elegant Gem",
+    "category": "Magic",
+    "tier": 2,
+    "price": 700,
+    "color": "#a855f7",
+    "stats": [
+      "+380 Magic Power",
+      "+300 Hp"
+    ],
+    "passive": "Unique Passive — Gift: When HP drops below 50%, recovers 15% of HP over the next 3 seconds. When Mana drops below 50%, restores 15% of Mana over the next 3 seconds. Cooldown: 60 seconds.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Magic equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +380 Magic Power, +300 Hp efficiency for Magic builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "vitality-crystal",
+      "power-crystal"
+    ],
+    "buildsInto": [
+      "clock-of-destiny"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/elegant-gem.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/elegant-gem.png"
+  },
+  {
+    "id": "azure-blade",
+    "name": "Azure Blade",
+    "category": "Magic",
+    "tier": 2,
+    "price": 600,
+    "color": "#a855f7",
+    "stats": [
+      "+5 Magic Power",
+      "+5% Cd Reduction"
+    ],
+    "passive": "Unique Passive — Judgement: After casting a skill, the next Basic Attack within 3 seconds deals 50 extra True Damage (1.5 seconds cooldown).",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +5 Magic Power, +5% Cd Reduction efficiency for Magic builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "mystery-codex",
+      "magic-necklace"
+    ],
+    "buildsInto": [
+      "endless-battle",
+      "starlium-scythe"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/azure-blade.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/azure-blade.png"
+  },
+  {
+    "id": "exotic-veil",
+    "name": "Exotic Veil",
+    "category": "Magic",
+    "tier": 2,
+    "price": 600,
+    "color": "#ec4899",
+    "stats": [
+      "+30 Magic Power",
+      "+5% Movement Speed"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Silk veil woven with wind magic that hastens a mage's roaming speed.",
+    "tips": "Helps Mid Laners rotate rapidly to Gold and EXP lanes.",
+    "whenToBuild": "Before completing Genius Wand or Divine Glaive.",
+    "buildsFrom": [
+      "mystery-codex"
+    ],
+    "buildsInto": [
+      "sky-piercer",
+      "blood-wings",
+      "divine-glaive",
+      "genius-wand"
+    ],
+    "recommendedHeroes": [
+      "gusion",
+      "kagura",
+      "odette",
+      "aamon"
+    ],
+    "icon": "assets/items/exotic-veil.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/exotic-veil.png"
+  },
+  {
+    "id": "mystic-container",
+    "name": "Mystic Container",
+    "category": "Magic",
+    "tier": 1,
+    "price": 500,
+    "color": "#a855f7",
+    "stats": [
+      "+15 Magic Power",
+      "+8% Spell Vamp"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +15 Magic Power, +8% Spell Vamp efficiency for Magic builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "concentrated-energy",
+      "starlium-scythe"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/mystic-container.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/mystic-container.png"
+  },
+  {
+    "id": "book-of-sages",
+    "name": "Book of Sages",
+    "category": "Magic",
+    "tier": 1,
+    "price": 450,
+    "color": "#a855f7",
+    "stats": [
+      "+8 Magic Power",
+      "+5% Cd Reduction"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +8 Magic Power, +5% Cd Reduction efficiency for Magic builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "expert-gloves",
+      "heros-ring",
+      "enchanted-talisman",
+      "feather-of-heaven",
+      "tome-of-evil",
+      "magic-shoes"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/book-of-sages.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/book-of-sages.png"
+  },
+  {
+    "id": "mystery-codex",
+    "name": "Mystery Codex",
+    "category": "Magic",
+    "tier": 1,
+    "price": 300,
+    "color": "#3b82f6",
+    "stats": [
+      "+15 Magic Power"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "An introductory grimoire penned by scholars of the Magic Academy.",
+    "tips": "Foundational Magic Power component for almost every Mage item.",
+    "whenToBuild": "Early laning phase.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "azure-blade",
+      "exotic-veil",
+      "magic-wand",
+      "tome-of-evil",
+      "arcane-boots"
+    ],
+    "recommendedHeroes": [
+      "kagura",
+      "gusion",
+      "odette",
+      "aamon",
+      "angela"
+    ],
+    "icon": "assets/items/mystery-codex.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/mystery-codex.png"
+  },
+  {
+    "id": "power-crystal",
+    "name": "Power Crystal",
+    "category": "Magic",
+    "tier": 1,
+    "price": 220,
+    "color": "#a855f7",
+    "stats": [
+      "+280 Magic Power"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +280 Magic Power efficiency for Magic builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "black-ice-shield",
+      "elegant-gem"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/power-crystal.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/power-crystal.png"
+  },
+  {
+    "id": "magic-necklace",
+    "name": "Magic Necklace",
+    "category": "Magic",
+    "tier": 1,
+    "price": 120,
+    "color": "#a855f7",
+    "stats": [
+      "+2 Magic Power"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-1 Magic equipment used across the Land of Dawn (Magic specialization).",
+    "tips": "Provides +2 Magic Power efficiency for Magic builds.",
+    "whenToBuild": "Early laning component.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "azure-blade",
+      "tome-of-evil",
+      "demon-shoes"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/magic-necklace.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/magic-necklace.png"
+  },
+  {
+    "id": "arcane-boots",
+    "name": "Arcane Boots",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#a855f7",
+    "stats": [
+      "+15 Magic Power",
+      "+40% Movement Speed",
+      "+10 Penetration"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Spellcaster boots etched with void sigils that grant flat Magic Penetration.",
+    "tips": "Combines with Genius Wand and Rupture talent for +25 flat Magic Penetration early game.",
+    "whenToBuild": "Core boots on Burst Mages and Magic Assassins.",
+    "buildsFrom": [
+      "boots",
+      "mystery-codex"
+    ],
+    "buildsInto": [
+      "flame-retribution-boots"
+    ],
+    "recommendedHeroes": [
+      "gusion",
+      "kagura",
+      "odette",
+      "aamon",
+      "nana",
+      "eudora",
+      "gord",
+      "cyclops",
+      "aurora",
+      "vexana",
+      "zhask",
+      "pharsa"
+    ],
+    "icon": "assets/items/arcane-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/arcane-boots.png"
+  },
+  {
+    "id": "demon-shoes",
+    "name": "Demon Shoes",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#3b82f6",
+    "stats": [
+      "+10 Magic Power",
+      "+40% Movement Speed"
+    ],
+    "passive": "Unique Passive — Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2 seconds after taking damage from the hero.)",
+    "active": null,
+    "cooldown": "On Kill/Assist",
+    "description": "Mana-siphoning boots that keep spam-heavy Supports and Mages topped up in extended sieges.",
+    "tips": "Solves all early mana issues for Angela and Diggie.",
+    "whenToBuild": "Roam Supports with high mana consumption.",
+    "buildsFrom": [
+      "boots",
+      "magic-necklace"
+    ],
+    "buildsInto": [
+      "favor-roam-boots",
+      "encourage-roam-boots"
+    ],
+    "recommendedHeroes": [
+      "angela",
+      "diggie",
+      "rafaela",
+      "lolita",
+      "estes",
+      "kaja",
+      "faramis",
+      "carmilla",
+      "mathilda",
+      "floryn",
+      "chip",
+      "kalea"
+    ],
+    "icon": "assets/items/demon-shoes.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/demon-shoes.png"
+  },
+  {
+    "id": "magic-shoes",
+    "name": "Magic Shoes",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#38bdf8",
+    "stats": [
+      "+150 Hp",
+      "+40% Movement Speed",
+      "+10% Cd Reduction"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Movement equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +150 Hp, +40% Movement Speed efficiency for Movement builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "boots",
+      "book-of-sages"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/magic-shoes.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/magic-shoes.png"
+  },
+  {
+    "id": "rapid-boots",
+    "name": "Rapid Boots",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#38bdf8",
+    "stats": [
+      "+12 Hp",
+      "+65% Movement Speed"
+    ],
+    "passive": "Unique Passive — Side Effect: Loses 20 Movement Speed for 5 seconds upon dealing or taking damage.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Movement equipment used across the Land of Dawn (Health specialization).",
+    "tips": "Provides +12 Hp, +65% Movement Speed efficiency for Movement builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "boots"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/rapid-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/rapid-boots.png"
+  },
+  {
+    "id": "swift-boots",
+    "name": "Swift Boots",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#eab308",
+    "stats": [
+      "+40% Movement Speed",
+      "+15% Attack Speed"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Feathered boots that accelerate Basic Attack cadence and reload speed.",
+    "tips": "Great on Layla for Attack Speed kiting and Beatrix for faster weapon reloads.",
+    "whenToBuild": "Gold Lane Marksmen when facing low Crowd Control.",
+    "buildsFrom": [
+      "boots",
+      "knife"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "layla",
+      "beatrix",
+      "miya",
+      "bruno",
+      "clint",
+      "moskov",
+      "irithel",
+      "lesley",
+      "hanabi",
+      "kimmy",
+      "granger",
+      "wanwan"
+    ],
+    "icon": "assets/items/swift-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/swift-boots.png"
+  },
+  {
+    "id": "tough-boots",
+    "name": "Tough Boots",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#38bdf8",
+    "stats": [
+      "+18 Magic Defense",
+      "+40% Movement Speed"
+    ],
+    "passive": "Unique Passive — Fortitude: CC and Slow Duration reduced by 25%.",
+    "active": null,
+    "cooldown": "Passive",
+    "description": "Runed greaves that provide 30% Tenacity (Crowd Control reduction) and Magic Defense.",
+    "tips": "The highest-winrate boots in MLBB—30% CC reduction lets Fanny, Yu Zhong, and Tanks shrug off stuns.",
+    "whenToBuild": "Whenever the enemy team has 2+ stuns or Magic Damage.",
+    "buildsFrom": [
+      "boots",
+      "magic-resist-cloak"
+    ],
+    "buildsInto": [
+      "ice-retribution-boots",
+      "conceal-roam-boots",
+      "encourage-roam-boots"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "chou",
+      "yu-zhong",
+      "claude",
+      "khufra",
+      "karrie",
+      "balmond",
+      "saber",
+      "alice",
+      "alucard",
+      "karina"
+    ],
+    "icon": "assets/items/tough-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/tough-boots.png"
+  },
+  {
+    "id": "warrior-boots",
+    "name": "Warrior Boots",
+    "category": "Movement",
+    "tier": 2,
+    "price": 720,
+    "color": "#38bdf8",
+    "stats": [
+      "+18 Physical Defense",
+      "+40% Movement Speed"
+    ],
+    "passive": "Unique Passive — Valor: Gains 4 extra Physical Defense for 3 seconds when taking Physical Damage, up to 20.",
+    "active": null,
+    "cooldown": "Active / Passive",
+    "description": "Official Tier-2 Movement equipment used across the Land of Dawn (Defense specialization).",
+    "tips": "Provides +18 Physical Defense, +40% Movement Speed efficiency for Movement builds.",
+    "whenToBuild": "Mid-game bridge component.",
+    "buildsFrom": [
+      "boots",
+      "leather-jerkin"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion"
+    ],
+    "icon": "assets/items/warrior-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/warrior-boots.png"
+  },
+  {
+    "id": "boots",
+    "name": "Boots",
+    "category": "Movement",
+    "tier": 1,
+    "price": 250,
+    "color": "#94a3b8",
+    "stats": [
+      "+20% Movement Speed"
+    ],
+    "passive": null,
+    "active": null,
+    "cooldown": "None",
+    "description": "Standard leather marching boots for navigating the Land of Dawn.",
+    "tips": "Can be blessed with Jungling Retribution or Roaming Footwear passives at 0 extra gold.",
+    "whenToBuild": "First purchase at 00:00.",
+    "buildsFrom": [],
+    "buildsInto": [
+      "arcane-boots",
+      "demon-shoes",
+      "magic-shoes",
+      "rapid-boots",
+      "swift-boots",
+      "tough-boots",
+      "warrior-boots",
+      "ice-retribution-boots",
+      "flame-retribution-boots",
+      "conceal-roam-boots",
+      "favor-roam-boots",
+      "encourage-roam-boots"
+    ],
+    "recommendedHeroes": [
+      "tigreal",
+      "fanny",
+      "gusion",
+      "kagura",
+      "chou",
+      "yu-zhong",
+      "claude",
+      "beatrix",
+      "angela",
+      "odette",
+      "layla",
+      "khufra",
+      "karrie",
+      "aamon",
+      "diggie"
+    ],
+    "icon": "assets/items/boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/boots.png"
+  },
+  {
+    "id": "favor-roam-boots",
+    "name": "Favor (Roam Blessing)",
+    "category": "Roaming",
+    "tier": 3,
+    "price": 720,
+    "color": "#22c55e",
+    "stats": [
+      "+40 Movement Speed",
+      "Devotion Gold/EXP Share"
+    ],
+    "passive": "Unique Passive — Favor: Every 10s, the next healing or shield skill cast on an ally restores an extra 240–600 HP to the nearby ally with the lowest HP!",
+    "active": null,
+    "cooldown": "10.0s",
+    "description": "Emerald Roaming Blessing that adds a bonus 240–600 burst heal to every shield or heal spell.",
+    "tips": "Triggered automatically by Angela's Love Waves (S1), Flask of the Oasis, and Diggie's Time Journey shield!",
+    "whenToBuild": "Mandatory Roaming Blessing on Angela and healer Supports.",
+    "buildsFrom": [
+      "boots",
+      "demon-shoes"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "angela",
+      "diggie"
+    ],
+    "icon": "assets/items/favor-roam-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/favor.png"
+  },
+  {
+    "id": "conceal-roam-boots",
+    "name": "Conceal (Roam Blessing)",
+    "category": "Roaming",
+    "tier": 3,
+    "price": 700,
+    "color": "#a855f7",
+    "stats": [
+      "+40 Movement Speed",
+      "Devotion Gold/EXP Share"
+    ],
+    "passive": "Unique Passive — Devotion & Thriving: Does not share Gold/EXP from minions with nearby allies; unlocks active skill at 600 Roam Gold.",
+    "active": "Unique Active — Conceal: Conceals the wielder and nearby allied heroes for 5s, granting Camouflage and +30%–75% Movement Speed!",
+    "cooldown": "75.0s - 60.0s",
+    "description": "Shadow-cloaked Roaming Blessing that turns the entire 5-man squad invisible with a massive speed surge.",
+    "tips": "Pop Conceal right before Tigreal, Khufra, or Chou initiates so the enemy team cannot react until they are already airborne.",
+    "whenToBuild": "Primary Roaming Blessing on hard-engage Tanks.",
+    "buildsFrom": [
+      "boots",
+      "tough-boots"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "tigreal",
+      "khufra",
+      "chou"
+    ],
+    "icon": "assets/items/conceal-roam-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/conceal.png"
+  },
+  {
+    "id": "encourage-roam-boots",
+    "name": "Encourage (Roam Blessing)",
+    "category": "Roaming",
+    "tier": 3,
+    "price": 700,
+    "color": "#ef4444",
+    "stats": [
+      "+40 Movement Speed",
+      "Devotion Gold/EXP Share"
+    ],
+    "passive": "Unique Passive — Encourage: Grants nearby allied heroes +12–30 Physical Attack & Magic Power and +15% Attack Speed permanently in an aura!",
+    "active": null,
+    "cooldown": "Aura",
+    "description": "Crimson War Banner Roaming Blessing that permanently buffs all nearby teammates' Attack Power and Attack Speed.",
+    "tips": "Effortlessly grants your team ~1500 gold worth of free offensive stats during 5v5 sieges and Lord takes.",
+    "whenToBuild": "Great on Diggie, Angela, or aggressive Tanks when your Marksman is fed.",
+    "buildsFrom": [
+      "boots",
+      "tough-boots",
+      "demon-shoes"
+    ],
+    "buildsInto": [],
+    "recommendedHeroes": [
+      "diggie",
+      "tigreal",
+      "angela"
+    ],
+    "icon": "assets/items/encourage-roam-boots.png",
+    "remoteIcon": "https://mlbb.site/MLBB-BuildShare/http/img/items/encourage.png"
+  }
+]

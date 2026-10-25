@@ -1,0 +1,579 @@
+{
+  "profile": {
+    "name": "0xjaylen",
+    "roleId": "849201538",
+    "zoneId": "8234",
+    "level": 92,
+    "rank": "Mythical Immortal ? 128",
+    "highestRank": "Mythical Immortal ? 164",
+    "country": "MM",
+    "guild": "NEXUS ? DAWN",
+    "title": "Supreme No.1 Gusion ? Land of Dawn",
+    "avatarHeroId": "gusion",
+    "showcaseHeroId": "hayabusa",
+    "lastSynced": "Live Snapshot Ready"
+  },
+  "seasons": [
+    {
+      "sid": 40,
+      "label": "Season 40 (Current)",
+      "tc": 342,
+      "wc": 224,
+      "winrate": 65.5,
+      "mvpc": 96,
+      "legendary": 54,
+      "savage": 6,
+      "maniac": 28,
+      "wsc": 16,
+      "avgScore": 10.8,
+      "kdaRatio": 6.42,
+      "avgKills": 9.4,
+      "avgDeaths": 2.3,
+      "avgAssists": 5.4,
+      "avgGoldPerMin": 845,
+      "avgDmgPerMin": 5620,
+      "teamfightParticipation": 76.4,
+      "hoursPlayed": 98.5,
+      "highlights": [
+        {
+          "key": "hk",
+          "label": "Highest Kills",
+          "value": "29 Kills",
+          "heroId": "fanny",
+          "matchNote": "Ranked ? 16:42"
+        },
+        {
+          "key": "mo",
+          "label": "Most Hero Damage",
+          "value": "194,820",
+          "heroId": "cecilion",
+          "matchNote": "Ranked ? 21:15"
+        },
+        {
+          "key": "ms",
+          "label": "Highest Rating",
+          "value": "15.9 MVP",
+          "heroId": "hayabusa",
+          "matchNote": "Ranked ? 13:08"
+        },
+        {
+          "key": "ma",
+          "label": "Most Assists",
+          "value": "34 Assists",
+          "heroId": "mathilda",
+          "matchNote": "Ranked ? 19:50"
+        },
+        {
+          "key": "mg",
+          "label": "Highest Gold",
+          "value": "19,450g",
+          "heroId": "claude",
+          "matchNote": "Ranked ? 18:22"
+        },
+        {
+          "key": "mdt",
+          "label": "Most Damage Taken",
+          "value": "268,400",
+          "heroId": "tigreal",
+          "matchNote": "Ranked ? 22:10"
+        }
+      ]
+    },
+    {
+      "sid": 39,
+      "label": "Season 39",
+      "tc": 480,
+      "wc": 304,
+      "winrate": 63.3,
+      "mvpc": 131,
+      "legendary": 72,
+      "savage": 9,
+      "maniac": 41,
+      "wsc": 19,
+      "avgScore": 10.5,
+      "kdaRatio": 5.95,
+      "avgKills": 8.8,
+      "avgDeaths": 2.5,
+      "avgAssists": 6.1,
+      "avgGoldPerMin": 822,
+      "avgDmgPerMin": 5410,
+      "teamfightParticipation": 74.8,
+      "hoursPlayed": 139.0,
+      "highlights": [
+        {
+          "key": "hk",
+          "label": "Highest Kills",
+          "value": "31 Kills",
+          "heroId": "ling",
+          "matchNote": "Ranked ? 18:04"
+        },
+        {
+          "key": "mo",
+          "label": "Most Hero Damage",
+          "value": "210,450",
+          "heroId": "xavier",
+          "matchNote": "Ranked ? 23:40"
+        },
+        {
+          "key": "ms",
+          "label": "Highest Rating",
+          "value": "16.0 MVP",
+          "heroId": "gusion",
+          "matchNote": "Ranked ? 12:19"
+        },
+        {
+          "key": "ma",
+          "label": "Most Assists",
+          "value": "37 Assists",
+          "heroId": "floryn",
+          "matchNote": "Ranked ? 20:11"
+        },
+        {
+          "key": "mg",
+          "label": "Highest Gold",
+          "value": "20,120g",
+          "heroId": "beatrix",
+          "matchNote": "Ranked ? 19:30"
+        },
+        {
+          "key": "mdt",
+          "label": "Most Damage Taken",
+          "value": "284,900",
+          "heroId": "khufra",
+          "matchNote": "Ranked ? 24:05"
+        }
+      ]
+    },
+    {
+      "sid": 0,
+      "label": "All Seasons Career",
+      "tc": 4280,
+      "wc": 2748,
+      "winrate": 64.2,
+      "mvpc": 1190,
+      "legendary": 645,
+      "savage": 58,
+      "maniac": 312,
+      "wsc": 23,
+      "avgScore": 10.6,
+      "kdaRatio": 6.18,
+      "avgKills": 9.1,
+      "avgDeaths": 2.4,
+      "avgAssists": 5.8,
+      "avgGoldPerMin": 836,
+      "avgDmgPerMin": 5530,
+      "teamfightParticipation": 75.5,
+      "hoursPlayed": 1245.0,
+      "highlights": [
+        {
+          "key": "hk",
+          "label": "Highest Kills",
+          "value": "34 Kills",
+          "heroId": "fanny",
+          "matchNote": "Mythic Glory ? 17:55"
+        },
+        {
+          "key": "mo",
+          "label": "Most Hero Damage",
+          "value": "238,900",
+          "heroId": "lunox",
+          "matchNote": "Mythic Immortal ? 25:12"
+        },
+        {
+          "key": "ms",
+          "label": "Highest Rating",
+          "value": "16.4 MVP",
+          "heroId": "hayabusa",
+          "matchNote": "Mythic Immortal ? 11:48"
+        },
+        {
+          "key": "ma",
+          "label": "Most Assists",
+          "value": "41 Assists",
+          "heroId": "angela",
+          "matchNote": "Mythic Glory ? 24:30"
+        },
+        {
+          "key": "mg",
+          "label": "Highest Gold",
+          "value": "22,300g",
+          "heroId": "claude",
+          "matchNote": "Mythic Immortal ? 21:08"
+        },
+        {
+          "key": "mdt",
+          "label": "Most Damage Taken",
+          "value": "312,500",
+          "heroId": "tigreal",
+          "matchNote": "Mythic Immortal ? 26:40"
+        }
+      ]
+    }
+  ],
+  "frequentHeroes": [
+    {
+      "heroId": "hayabusa",
+      "matches": 94,
+      "wins": 67,
+      "winrate": 71.3,
+      "avgKda": "11.2 / 1.8 / 4.6",
+      "mmr": 4820,
+      "title": "Supreme No. 3 Hayabusa"
+    },
+    {
+      "heroId": "gusion",
+      "matches": 82,
+      "wins": 56,
+      "winrate": 68.3,
+      "avgKda": "12.4 / 2.4 / 5.1",
+      "mmr": 4690,
+      "title": "Supreme No. 1 Gusion"
+    },
+    {
+      "heroId": "fanny",
+      "matches": 64,
+      "wins": 43,
+      "winrate": 67.2,
+      "avgKda": "13.1 / 2.7 / 4.9",
+      "mmr": 4510,
+      "title": "Global Rank #48 Fanny"
+    },
+    {
+      "heroId": "kagura",
+      "matches": 52,
+      "wins": 35,
+      "winrate": 67.3,
+      "avgKda": "8.7 / 1.6 / 9.4",
+      "mmr": 4280,
+      "title": "Senior Seimei Master"
+    },
+    {
+      "heroId": "ling",
+      "matches": 48,
+      "wins": 31,
+      "winrate": 64.6,
+      "avgKda": "10.5 / 2.2 / 5.3",
+      "mmr": 4150,
+      "title": "Supreme Finch Poise"
+    },
+    {
+      "heroId": "chou",
+      "matches": 41,
+      "wins": 26,
+      "winrate": 63.4,
+      "avgKda": "4.8 / 2.5 / 12.8",
+      "mmr": 3990,
+      "title": "Way of Dragon Specialist"
+    },
+    {
+      "heroId": "claude",
+      "matches": 38,
+      "wins": 25,
+      "winrate": 65.8,
+      "avgKda": "9.6 / 1.9 / 7.2",
+      "mmr": 3920,
+      "title": "Blazing Duet Carry"
+    },
+    {
+      "heroId": "tigreal",
+      "matches": 32,
+      "wins": 22,
+      "winrate": 68.8,
+      "avgKda": "2.1 / 2.8 / 16.4",
+      "mmr": 3840,
+      "title": "Imperial Vanguard"
+    }
+  ],
+  "matches": [
+    {
+      "battleId": "88492019482101",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "hayabusa",
+      "lane": "Jungle",
+      "result": "WIN",
+      "mvp": true,
+      "badge": "MVP ? Savage",
+      "kills": 18,
+      "deaths": 1,
+      "assists": 7,
+      "score": 14.9,
+      "gold": 14820,
+      "heroDmg": "98,420 (39%)",
+      "turretDmg": "14,200",
+      "dmgTaken": "41,200",
+      "duration": "14:28",
+      "timestamp": "Today, 02:14",
+      "spell": "Retribution",
+      "items": [
+        "tough-boots",
+        "sky-piercer",
+        "blade-of-the-heptaseas",
+        "endless-battle",
+        "malefic-roar",
+        "blade-of-despair"
+      ]
+    },
+    {
+      "battleId": "88492019482088",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "gusion",
+      "lane": "Jungle",
+      "result": "WIN",
+      "mvp": true,
+      "badge": "MVP ? Legendary",
+      "kills": 21,
+      "deaths": 2,
+      "assists": 9,
+      "score": 15.4,
+      "gold": 15640,
+      "heroDmg": "114,500 (42%)",
+      "turretDmg": "9,850",
+      "dmgTaken": "52,300",
+      "duration": "15:52",
+      "timestamp": "Today, 01:42",
+      "spell": "Retribution",
+      "items": [
+        "arcane-boots",
+        "genius-wand",
+        "sky-piercer",
+        "holy-crystal",
+        "divine-glaive",
+        "blood-wings"
+      ]
+    },
+    {
+      "battleId": "88492019481995",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "fanny",
+      "lane": "Jungle",
+      "result": "WIN",
+      "mvp": true,
+      "badge": "MVP ? Maniac",
+      "kills": 16,
+      "deaths": 2,
+      "assists": 8,
+      "score": 13.8,
+      "gold": 14190,
+      "heroDmg": "92,180 (36%)",
+      "turretDmg": "11,400",
+      "dmgTaken": "64,900",
+      "duration": "13:19",
+      "timestamp": "Yesterday, 23:50",
+      "spell": "Retribution",
+      "items": [
+        "tough-boots",
+        "blade-of-the-heptaseas",
+        "sky-piercer",
+        "malefic-roar",
+        "antique-cuirass",
+        "immortality"
+      ]
+    },
+    {
+      "battleId": "88492019481912",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "kagura",
+      "lane": "Mid",
+      "result": "WIN",
+      "mvp": false,
+      "badge": "Gold Medal",
+      "kills": 11,
+      "deaths": 1,
+      "assists": 14,
+      "score": 12.6,
+      "gold": 13200,
+      "heroDmg": "108,340 (34%)",
+      "turretDmg": "6,420",
+      "dmgTaken": "34,100",
+      "duration": "16:40",
+      "timestamp": "Yesterday, 22:18",
+      "spell": "Flicker",
+      "items": [
+        "arcane-boots",
+        "lightning-truncheon",
+        "holy-crystal",
+        "genius-wand",
+        "divine-glaive",
+        "blood-wings"
+      ]
+    },
+    {
+      "battleId": "88492019481840",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "ling",
+      "lane": "Jungle",
+      "result": "LOSS",
+      "mvp": true,
+      "badge": "MVP Loss",
+      "kills": 14,
+      "deaths": 3,
+      "assists": 6,
+      "score": 11.9,
+      "gold": 15890,
+      "heroDmg": "96,700 (38%)",
+      "turretDmg": "16,800",
+      "dmgTaken": "58,400",
+      "duration": "19:12",
+      "timestamp": "Yesterday, 21:05",
+      "spell": "Retribution",
+      "items": [
+        "tough-boots",
+        "windtalker",
+        "endless-battle",
+        "berserkers-fury",
+        "malefic-roar",
+        "blade-of-despair"
+      ]
+    },
+    {
+      "battleId": "88492019481766",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "claude",
+      "lane": "Gold",
+      "result": "WIN",
+      "mvp": true,
+      "badge": "MVP ? Legendary",
+      "kills": 13,
+      "deaths": 0,
+      "assists": 11,
+      "score": 14.2,
+      "gold": 16420,
+      "heroDmg": "119,600 (41%)",
+      "turretDmg": "18,900",
+      "dmgTaken": "43,800",
+      "duration": "16:05",
+      "timestamp": "2 days ago",
+      "spell": "Purify",
+      "items": [
+        "tough-boots",
+        "demon-hunter-sword",
+        "golden-staff",
+        "corrosion-scythe",
+        "wind-of-nature",
+        "malefic-roar"
+      ]
+    },
+    {
+      "battleId": "88492019481690",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "chou",
+      "lane": "Roam",
+      "result": "WIN",
+      "mvp": false,
+      "badge": "Gold Medal",
+      "kills": 5,
+      "deaths": 2,
+      "assists": 21,
+      "score": 11.8,
+      "gold": 11400,
+      "heroDmg": "48,900 (16%)",
+      "turretDmg": "5,100",
+      "dmgTaken": "142,600",
+      "duration": "17:34",
+      "timestamp": "2 days ago",
+      "spell": "Flicker",
+      "items": [
+        "tough-boots",
+        "dominance-ice",
+        "athenas-shield",
+        "antique-cuirass",
+        "immortality",
+        "winter-crown"
+      ]
+    },
+    {
+      "battleId": "88492019481550",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "tigreal",
+      "lane": "Roam",
+      "result": "WIN",
+      "mvp": true,
+      "badge": "MVP ? 5-Man Implosion",
+      "kills": 3,
+      "deaths": 1,
+      "assists": 26,
+      "score": 13.5,
+      "gold": 11980,
+      "heroDmg": "44,200 (15%)",
+      "turretDmg": "4,300",
+      "dmgTaken": "189,400",
+      "duration": "18:10",
+      "timestamp": "3 days ago",
+      "spell": "Flicker",
+      "items": [
+        "tough-boots",
+        "dominance-ice",
+        "athenas-shield",
+        "blade-armor",
+        "radiant-armor",
+        "immortality"
+      ]
+    },
+    {
+      "battleId": "88492019481420",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "suyou",
+      "lane": "Jungle",
+      "result": "WIN",
+      "mvp": true,
+      "badge": "MVP ? Maniac",
+      "kills": 15,
+      "deaths": 2,
+      "assists": 10,
+      "score": 13.7,
+      "gold": 14950,
+      "heroDmg": "94,300 (35%)",
+      "turretDmg": "13,100",
+      "dmgTaken": "69,200",
+      "duration": "15:18",
+      "timestamp": "3 days ago",
+      "spell": "Retribution",
+      "items": [
+        "tough-boots",
+        "hunter-strike",
+        "war-axe",
+        "sky-piercer",
+        "malefic-roar",
+        "blade-of-despair"
+      ]
+    },
+    {
+      "battleId": "88492019481305",
+      "sid": 40,
+      "mode": "Ranked ? Mythical Immortal",
+      "heroId": "lukas",
+      "lane": "EXP",
+      "result": "WIN",
+      "mvp": false,
+      "badge": "Gold Medal",
+      "kills": 9,
+      "deaths": 2,
+      "assists": 12,
+      "score": 11.4,
+      "gold": 13680,
+      "heroDmg": "86,400 (28%)",
+      "turretDmg": "12,750",
+      "dmgTaken": "134,800",
+      "duration": "17:45",
+      "timestamp": "4 days ago",
+      "spell": "Vengeance",
+      "items": [
+        "tough-boots",
+        "war-axe",
+        "hunter-strike",
+        "oracle",
+        "queens-wings",
+        "immortality"
+      ]
+    }
+  ]
+}
